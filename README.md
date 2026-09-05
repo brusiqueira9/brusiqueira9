@@ -69,6 +69,27 @@ Estou disponível para uma nova oportunidade em tecnologia, especialmente em tim
   APIs REST · JWT · Shell/Bash · Oracle SQL Developer · Microsoft SQL Server · Firebase · Tailwind CSS · shadcn/ui · Web Speech API · ExcelJS · jsPDF
 </details>
 
+## Sinais de atividade
+
+<p align="center">
+  <img src="./assets/github-metrics.svg" alt="Painel visual da atividade no GitHub" width="100%">
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/github-languages.svg" alt="Distribuição de linguagens" width="100%">
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/github-calendar.svg" alt="Calendário de contribuições" width="100%">
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>Atualizado automaticamente por <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> · horário de Brasília · execução diária</sub>
+</p>
+
 ## Trabalho selecionado
 
 <table>

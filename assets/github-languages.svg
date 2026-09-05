@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="280" viewBox="0 0 720 280" role="img" aria-labelledby="title desc">
+  <title id="title">Distribuição de linguagens</title>
+  <desc id="desc">Prévia do gráfico de linguagens que será preenchida pelo workflow.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#000000"/><stop offset="1" stop-color="#001A33"/></linearGradient></defs>
+  <rect width="720" height="280" rx="16" fill="url(#bg)"/>
+  <text x="28" y="42" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="20" font-weight="700">LANGUAGE MIX</text>
+  <text x="28" y="70" fill="#8EDBFF" font-family="Arial,sans-serif" font-size="13">O gráfico real aparece após a primeira execução</text>
+  <g fill="#FFFFFF" fill-opacity=".06">
+    <rect x="28" y="108" width="664" height="22" rx="11"/><rect x="28" y="154" width="664" height="22" rx="11"/><rect x="28" y="200" width="664" height="22" rx="11"/>
+  </g>
+  <g fill="#00B0FF" fill-opacity=".7"><rect x="28" y="108" width="332" height="22" rx="11"/></g>
+  <g fill="#0033FF" fill-opacity=".7"><rect x="28" y="154" width="232" height="22" rx="11"/></g>
+  <g fill="#00A86B" fill-opacity=".7"><rect x="28" y="200" width="144" height="22" rx="11"/></g>
+  <text x="28" y="252" fill="#7D93A6" font-family="Arial,sans-serif" font-size="12">PREVIEW · dados ainda não sincronizados</text>
+</svg>

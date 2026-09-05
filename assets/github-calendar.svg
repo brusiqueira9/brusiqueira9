@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="280" viewBox="0 0 720 280" role="img" aria-labelledby="title desc">
+  <title id="title">Calendário de contribuições</title>
+  <desc id="desc">Prévia do calendário de contribuições que será preenchida pelo workflow.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#000000"/><stop offset="1" stop-color="#001A33"/></linearGradient></defs>
+  <rect width="720" height="280" rx="16" fill="url(#bg)"/>
+  <text x="28" y="42" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="20" font-weight="700">CONTRIBUTION FLOW</text>
+  <text x="28" y="70" fill="#8EDBFF" font-family="Arial,sans-serif" font-size="13">Calendário anual · atualização automática</text>
+  <g fill="#00B0FF" fill-opacity=".18">
+    <rect x="30" y="104" width="12" height="12" rx="3"/><rect x="50" y="104" width="12" height="12" rx="3"/><rect x="70" y="104" width="12" height="12" rx="3"/><rect x="90" y="104" width="12" height="12" rx="3"/>
+    <rect x="30" y="124" width="12" height="12" rx="3"/><rect x="50" y="124" width="12" height="12" rx="3"/><rect x="70" y="124" width="12" height="12" rx="3"/><rect x="90" y="124" width="12" height="12" rx="3"/>
+    <rect x="30" y="144" width="12" height="12" rx="3"/><rect x="50" y="144" width="12" height="12" rx="3"/><rect x="70" y="144" width="12" height="12" rx="3"/><rect x="90" y="144" width="12" height="12" rx="3"/>
+  </g>
+  <path d="M30 204H690" stroke="#00B0FF" stroke-opacity=".24"/>
+  <path d="M30 204 C120 180 180 220 270 196 S420 180 510 204 S610 182 690 192" fill="none" stroke="#00A86B" stroke-width="3" stroke-dasharray="7 9"/>
+  <text x="30" y="242" fill="#7D93A6" font-family="Arial,sans-serif" font-size="12">PREVIEW · dados ainda não sincronizados</text>
+</svg>
