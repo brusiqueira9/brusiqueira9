@@ -28,8 +28,8 @@
 
 ## Visão rápida
 
-<img src="./assets/profile-signals-dark.svg?v=2#gh-dark-mode-only" alt="Painel escuro com processo de entrega e indicadores: 14 repositórios públicos, 6 projetos selecionados, 1 app público e mais de 10 entregas corporativas" width="100%">
-<img src="./assets/profile-signals-light.svg?v=2#gh-light-mode-only" alt="Painel claro com processo de entrega e indicadores: 14 repositórios públicos, 6 projetos selecionados, 1 app público e mais de 10 entregas corporativas" width="100%">
+<img src="./assets/profile-signals-dark.svg?v=4#gh-dark-mode-only" alt="Painel escuro com processo de entrega e indicadores: 14 repositórios públicos, 5 projetos selecionados, 1 app público e mais de 10 entregas corporativas" width="100%">
+<img src="./assets/profile-signals-light.svg?v=4#gh-light-mode-only" alt="Painel claro com processo de entrega e indicadores: 14 repositórios públicos, 5 projetos selecionados, 1 app público e mais de 10 entregas corporativas" width="100%">
 
 ## Trabalho selecionado
 
@@ -72,15 +72,8 @@ Alguns trabalhos que mostram como eu penso e construo, do produto público à op
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <p><sub>05 · FLUXO OPERACIONAL</sub></p>
-      <a href="https://github.com/brusiqueira9/ficha-reserva-hotel"><img align="left" hspace="12" src="./assets/projects/fichareservahotel.png" alt="Sistema de ficha de reserva de hotel" width="76"></a>
-      <strong><a href="https://github.com/brusiqueira9/ficha-reserva-hotel">Ficha de reserva ↗</a></strong><br>
-      Reservas padronizadas e PDFs para hotéis.<br clear="left">
-      <p><sub>HTML · CSS · JavaScript · jsPDF</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <p><sub>06 · INFRAESTRUTURA</sub></p>
+    <td width="100%" valign="top">
+      <p><sub>05 · INFRAESTRUTURA</sub></p>
       <a href="https://github.com/brusiqueira9/linux-projeto1-iac"><img align="left" hspace="12" src="./assets/projects/IAClinux.png" alt="Projetos Linux e infraestrutura como código" width="76"></a>
       <strong><a href="https://github.com/brusiqueira9/linux-projeto1-iac">Linux e IaC ↗</a></strong><br>
       Automação Bash de ambientes, usuários e permissões.<br clear="left">
