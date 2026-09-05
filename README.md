@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/site-logo2.png" alt="Bruno Siqueira" width="520">
+</div>
+
 # Olá, eu sou Bruno Siqueira 👋
 
 **Analista de TI | Arquiteto de Software | Cloud Computing | Desenvolvimento Web**
@@ -44,17 +48,25 @@ Aplicativo desenvolvido em experiência corporativa para geração e administra�
 
 ### [Expense Guru](https://github.com/brusiqueira9/expense-guru-supabase)
 
+<img src="./assets/projects/expenseguru.png" alt="Expense Guru" width="360">
+
 Aplicação web para controle financeiro pessoal, com dashboard, receitas, despesas e metas. Desenvolvida com React, TypeScript, Tailwind CSS, Supabase e shadcn/ui.
 
 ### [Chama Motorista](https://github.com/brusiqueira9/chamada_motorista)
+
+<img src="./assets/projects/chamamotorista.png" alt="Chama Motorista" width="360">
 
 Sistema web para anunciar motoristas por voz, com nome, placa e tipo de operação, utilizando Web Speech API e armazenamento local.
 
 ### [Ficha de reserva de hotel](https://github.com/brusiqueira9/ficha-reserva-hotel)
 
+<img src="./assets/projects/fichareservahotel.png" alt="Ficha de reserva de hotel" width="360">
+
 Aplicação para padronizar reservas de hotel e gerar PDFs personalizados, facilitando a comunicação com hotéis parceiros.
 
 ### [Projetos Linux e IaC](https://github.com/brusiqueira9/linux-projeto1-iac)
+
+<img src="./assets/projects/IAClinux.png" alt="Projetos Linux e IaC" width="360">
 
 Scripts Bash para automatizar usuários, grupos, diretórios e permissões em ambientes Linux.
 
