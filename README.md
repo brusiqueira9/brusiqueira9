@@ -23,19 +23,13 @@
 
 ## O que eu construo
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/capabilities-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/capabilities-light.svg">
-  <img src="./assets/capabilities-light.svg" alt="Três áreas de atuação: arquitetura, produtos web e operação" width="100%">
-</picture>
+<img src="./assets/capabilities-dark.svg#gh-dark-mode-only" alt="Três áreas de atuação em tema escuro: arquitetura, produtos web e operação" width="100%">
+<img src="./assets/capabilities-light.svg#gh-light-mode-only" alt="Três áreas de atuação em tema claro: arquitetura, produtos web e operação" width="100%">
 
 ## Visão rápida
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-signals-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-signals-light.svg">
-  <img src="./assets/profile-signals-light.svg" alt="Painel com processo de entrega e indicadores: 14 repositórios públicos, 6 projetos selecionados, 1 app público e mais de 10 entregas corporativas" width="100%">
-</picture>
+<img src="./assets/profile-signals-dark.svg#gh-dark-mode-only" alt="Painel escuro com processo de entrega e indicadores: 14 repositórios públicos, 6 projetos selecionados, 1 app público e mais de 10 entregas corporativas" width="100%">
+<img src="./assets/profile-signals-light.svg#gh-light-mode-only" alt="Painel claro com processo de entrega e indicadores: 14 repositórios públicos, 6 projetos selecionados, 1 app público e mais de 10 entregas corporativas" width="100%">
 
 ## Trabalho selecionado
 
