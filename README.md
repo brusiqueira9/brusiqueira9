@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/site-logo1.png">
-    <img src="./assets/site-logo2.png" alt="Assinatura oficial Bruno Siqueira" width="230">
+    <img src="./assets/site-logo2.png" alt="Assinatura oficial Bruno Siqueira" width="150">
   </picture>
 
   <h1>Olá, eu sou Bruno Siqueira.</h1>
