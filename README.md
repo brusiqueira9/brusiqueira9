@@ -23,13 +23,13 @@
 
 ## O que eu construo
 
-<img src="./assets/capabilities-dark.svg#gh-dark-mode-only" alt="Três áreas de atuação em tema escuro: arquitetura, produtos web e operação" width="100%">
-<img src="./assets/capabilities-light.svg#gh-light-mode-only" alt="Três áreas de atuação em tema claro: arquitetura, produtos web e operação" width="100%">
+<img src="./assets/capabilities-dark.svg?v=2#gh-dark-mode-only" alt="Três áreas de atuação em tema escuro: arquitetura, produtos web e operação" width="100%">
+<img src="./assets/capabilities-light.svg?v=2#gh-light-mode-only" alt="Três áreas de atuação em tema claro: arquitetura, produtos web e operação" width="100%">
 
 ## Visão rápida
 
-<img src="./assets/profile-signals-dark.svg#gh-dark-mode-only" alt="Painel escuro com processo de entrega e indicadores: 14 repositórios públicos, 6 projetos selecionados, 1 app público e mais de 10 entregas corporativas" width="100%">
-<img src="./assets/profile-signals-light.svg#gh-light-mode-only" alt="Painel claro com processo de entrega e indicadores: 14 repositórios públicos, 6 projetos selecionados, 1 app público e mais de 10 entregas corporativas" width="100%">
+<img src="./assets/profile-signals-dark.svg?v=2#gh-dark-mode-only" alt="Painel escuro com processo de entrega e indicadores: 14 repositórios públicos, 6 projetos selecionados, 1 app público e mais de 10 entregas corporativas" width="100%">
+<img src="./assets/profile-signals-light.svg?v=2#gh-light-mode-only" alt="Painel claro com processo de entrega e indicadores: 14 repositórios públicos, 6 projetos selecionados, 1 app público e mais de 10 entregas corporativas" width="100%">
 
 ## Trabalho selecionado
 
@@ -38,51 +38,53 @@ Alguns trabalhos que mostram como eu penso e construo, do produto público à op
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://athonpace.fit/"><img align="left" hspace="10" src="./assets/projects/athonpace-card.png" alt="Logo AthonPace sobre fundo azul-noite" width="88"></a>
-      <h3><a href="https://athonpace.fit/">AthonPace</a></h3>
-      <sub>APP PÚBLICO · ATHONPACE.FIT</sub><br>
-      Planos de corrida para acompanhar rotina e evolução.<br>
-      <sub>React · TypeScript · Supabase</sub><br clear="left">
+      <p><sub>01 · APP PÚBLICO</sub></p>
+      <a href="https://athonpace.fit/"><img align="left" hspace="12" src="./assets/projects/athonpace-card.png" alt="Logo AthonPace sobre fundo azul-noite" width="76"></a>
+      <strong><a href="https://athonpace.fit/">AthonPace ↗</a></strong><br>
+      <sub>athonpace.fit</sub><br>
+      Planos de corrida para acompanhar rotina e evolução.<br clear="left">
+      <p><sub>React · TypeScript · Supabase</sub></p>
     </td>
     <td width="50%" valign="top">
-      <img align="left" hspace="10" src="./assets/kratos-logo-card-dark.png#gh-dark-mode-only" alt="Logo Kratos em versão escura" width="88">
-      <img align="left" hspace="10" src="./assets/kratos-logo-card.png#gh-light-mode-only" alt="Logo Kratos em versão clara" width="88">
-      <h3>Kratos</h3>
-      <sub>EXPERIÊNCIA CORPORATIVA</sub><br>
-      FDS para agroquímicos, ETAM, Firebird e workflow.<br>
-      <sub>Dados · automação · notificações</sub><br clear="left">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/brusiqueira9/expense-guru-supabase"><img align="left" hspace="10" src="./assets/projects/expenseguru.png" alt="Dashboard do Expense Guru" width="88"></a>
-      <h3><a href="https://github.com/brusiqueira9/expense-guru-supabase">Expense Guru</a></h3>
-      <sub>PRODUTO WEB</sub><br>
-      Finanças pessoais com visão rápida do saldo.<br>
-      <sub>React · TypeScript · Supabase</sub><br clear="left">
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/brusiqueira9/chamada_motorista"><img align="left" hspace="10" src="./assets/projects/chamamotorista.png" alt="Interface do Chama Motorista" width="88"></a>
-      <h3><a href="https://github.com/brusiqueira9/chamada_motorista">Chama Motorista</a></h3>
-      <sub>AUTOMAÇÃO</sub><br>
-      Chamada logística por voz, nome, placa e operação.<br>
-      <sub>JavaScript · Web Speech API</sub><br clear="left">
+      <p><sub>02 · EXPERIÊNCIA CORPORATIVA</sub></p>
+      <img align="left" hspace="12" src="./assets/kratos-logo-card-dark.png?v=2#gh-dark-mode-only" alt="Logo Kratos em versão escura" width="76">
+      <img align="left" hspace="12" src="./assets/kratos-logo-card.png?v=2#gh-light-mode-only" alt="Logo Kratos em versão clara" width="76">
+      <strong>Kratos</strong><br>
+      <sub>produto interno</sub><br>
+      FDS para agroquímicos, ETAM, Firebird e workflow.<br clear="left">
+      <p><sub>Dados · automação · notificações</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/brusiqueira9/ficha-reserva-hotel"><img align="left" hspace="10" src="./assets/projects/fichareservahotel.png" alt="Sistema de ficha de reserva de hotel" width="88"></a>
-      <h3><a href="https://github.com/brusiqueira9/ficha-reserva-hotel">Ficha de reserva</a></h3>
-      <sub>FLUXO OPERACIONAL</sub><br>
-      Reservas padronizadas e PDFs para hotéis.<br>
-      <sub>HTML · CSS · JavaScript · jsPDF</sub><br clear="left">
+      <p><sub>03 · PRODUTO WEB</sub></p>
+      <a href="https://github.com/brusiqueira9/expense-guru-supabase"><img align="left" hspace="12" src="./assets/projects/expenseguru.png" alt="Dashboard do Expense Guru" width="76"></a>
+      <strong><a href="https://github.com/brusiqueira9/expense-guru-supabase">Expense Guru ↗</a></strong><br>
+      Finanças pessoais com visão rápida do saldo.<br clear="left">
+      <p><sub>React · TypeScript · Supabase</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/brusiqueira9/linux-projeto1-iac"><img align="left" hspace="10" src="./assets/projects/IAClinux.png" alt="Projetos Linux e infraestrutura como código" width="88"></a>
-      <h3><a href="https://github.com/brusiqueira9/linux-projeto1-iac">Linux e IaC</a></h3>
-      <sub>INFRAESTRUTURA</sub><br>
-      Automação Bash de ambientes, usuários e permissões.<br>
-      <sub>Shell Script · Linux · IaC</sub><br clear="left">
+      <p><sub>04 · AUTOMAÇÃO</sub></p>
+      <a href="https://github.com/brusiqueira9/chamada_motorista"><img align="left" hspace="12" src="./assets/projects/chamamotorista.png" alt="Interface do Chama Motorista" width="76"></a>
+      <strong><a href="https://github.com/brusiqueira9/chamada_motorista">Chama Motorista ↗</a></strong><br>
+      Chamada logística por voz, nome, placa e operação.<br clear="left">
+      <p><sub>JavaScript · Web Speech API</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><sub>05 · FLUXO OPERACIONAL</sub></p>
+      <a href="https://github.com/brusiqueira9/ficha-reserva-hotel"><img align="left" hspace="12" src="./assets/projects/fichareservahotel.png" alt="Sistema de ficha de reserva de hotel" width="76"></a>
+      <strong><a href="https://github.com/brusiqueira9/ficha-reserva-hotel">Ficha de reserva ↗</a></strong><br>
+      Reservas padronizadas e PDFs para hotéis.<br clear="left">
+      <p><sub>HTML · CSS · JavaScript · jsPDF</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><sub>06 · INFRAESTRUTURA</sub></p>
+      <a href="https://github.com/brusiqueira9/linux-projeto1-iac"><img align="left" hspace="12" src="./assets/projects/IAClinux.png" alt="Projetos Linux e infraestrutura como código" width="76"></a>
+      <strong><a href="https://github.com/brusiqueira9/linux-projeto1-iac">Linux e IaC ↗</a></strong><br>
+      Automação Bash de ambientes, usuários e permissões.<br clear="left">
+      <p><sub>Shell Script · Linux · IaC</sub></p>
     </td>
   </tr>
 </table>
@@ -108,8 +110,8 @@ Alguns trabalhos que mostram como eu penso e construo, do produto público à op
 ## Stack
 
 <p>
-  <img src="./assets/skill-stack-dark.svg#gh-dark-mode-only" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Docker, Linux, Git, GitHub Actions e Supabase em tema escuro">
-  <img src="./assets/skill-stack-light.svg#gh-light-mode-only" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Docker, Linux, Git, GitHub Actions e Supabase em tema claro">
+  <img src="./assets/skill-stack-dark.svg?v=2#gh-dark-mode-only" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Docker, Linux, Git, GitHub Actions e Supabase em tema escuro">
+  <img src="./assets/skill-stack-light.svg?v=2#gh-light-mode-only" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Docker, Linux, Git, GitHub Actions e Supabase em tema claro">
 </p>
 <p>
   <sub>Também trabalho com APIs REST, JWT, Shell/Bash, SQL, Firebird, Firebase, Tailwind CSS, shadcn/ui, Web Speech API, ExcelJS e jsPDF.</sub>
