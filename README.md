@@ -1,5 +1,5 @@
 <div align="center">
-  <table><tr><td bgcolor="#000000" align="center"><img src="./assets/official-signature.png" alt="Assinatura oficial Bruno Siqueira" width="250"></td></tr></table>
+  <img src="./assets/official-signature-transparent.png" alt="Assinatura oficial Bruno Siqueira" width="260">
 
   <h1>Olá, eu sou Bruno Siqueira.</h1>
 
@@ -49,7 +49,7 @@ Minha experiência combina suporte técnico, administração de ambientes, desen
   </tr>
 </table>
 
-<p><strong>Core technologies</strong></p>
+<p><strong>Tecnologias centrais</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Web-00B0FF?style=flat-square&logo=react&logoColor=white" alt="Web">
   <img src="https://img.shields.io/badge/APIs-0033FF?style=flat-square&logo=fastapi&logoColor=white" alt="APIs">
