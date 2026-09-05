@@ -43,22 +43,10 @@ Minha experiência combina suporte técnico, administração de ambientes, desen
 
 ## Sinais do trabalho
 
-<table width="100%">
-  <tr>
-    <td width="25%" align="center"><strong>03+</strong><br><sub>anos de experiência</sub></td>
-    <td width="25%" align="center"><strong>10+</strong><br><sub>soluções entregues</sub></td>
-    <td width="25%" align="center"><strong>06</strong><br><sub>projetos em destaque</sub></td>
-    <td width="25%" align="center"><strong>02</strong><br><sub>produtos públicos</sub></td>
-  </tr>
-</table>
-
-<p><strong>Tecnologias centrais</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/Web-00B0FF?style=flat-square&logo=react&logoColor=white" alt="Web">
-  <img src="https://img.shields.io/badge/APIs-0033FF?style=flat-square&logo=fastapi&logoColor=white" alt="APIs">
-  <img src="https://img.shields.io/badge/Cloud-00A86B?style=flat-square&logo=icloud&logoColor=white" alt="Cloud">
-  <img src="https://img.shields.io/badge/Data-00B0FF?style=flat-square&logo=databricks&logoColor=white" alt="Data">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-signals-light.svg">
+  <img src="./assets/profile-signals-dark.svg" alt="Painel com tecnologias centrais e sinais do trabalho: 3+ anos de experiência, 10+ soluções entregues, 6 projetos destacados e 2 produtos públicos" width="100%">
+</picture>
 
 ## Trabalho selecionado
 
