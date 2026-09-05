@@ -38,6 +38,14 @@ Também tenho contato com Oracle SQL Developer, Microsoft SQL Server, Firebase, 
 
 ## Projetos em destaque
 
+### [AthonPace — Assessoria de corrida adaptativa](https://athonpace.fit/)
+
+<img src="./assets/projects/athonpace.png" alt="AthonPace" width="420">
+
+Aplicativo de corrida criado para montar planos individualizados a partir da rotina, do momento e do objetivo de cada corredor. A plataforma acompanha a execução, o esforço, a dor e a evolução para adaptar os próximos treinos, com integração manual ao Strava e uso simples pelo celular.
+
+Aplicação pública: [athonpace.fit](https://athonpace.fit/). Código-fonte privado.
+
 ### Kratos — Gestão de Fichas de Segurança
 
 <img src="./assets/kratos-logo-horizontal.png" alt="Logo do Kratos" width="480">
