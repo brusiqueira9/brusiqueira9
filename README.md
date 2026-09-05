@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/official-signature-light.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/official-signature.png">
     <img src="./assets/official-signature-transparent.png" alt="Assinatura oficial Bruno Siqueira" width="200">
   </picture>
 
