@@ -54,7 +54,7 @@ Projetos diferentes, com a mesma preocupação: reduzir atrito e transformar rot
     </td>
     <td width="50%" valign="top">
       <h3>Kratos</h3>
-      <table width="100%"><tr><td bgcolor="#F7F9FC" align="center"><img src="./assets/kratos-logo-horizontal.png" alt="Logo Kratos sobre fundo claro" width="100%"></td></tr></table>
+      <img src="./assets/kratos-logo-card.png" alt="Logo Kratos sobre fundo claro" width="100%">
       <strong>Solução corporativa para agroquímicos</strong><br>
       Geração e administração de Fichas de Dados de Segurança, Firebird, cálculo ETAM, matérias-primas, e-mail e workflow.
       <br><sub>Projeto não público, desenvolvido em experiência corporativa</sub>
