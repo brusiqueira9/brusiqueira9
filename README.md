@@ -45,7 +45,8 @@ Alguns trabalhos que mostram como eu penso e construo, do produto público à op
       <sub>React · TypeScript · Supabase</sub><br clear="left">
     </td>
     <td width="50%" valign="top">
-      <img align="left" hspace="10" src="./assets/kratos-logo-card.png" alt="Logo Kratos sobre fundo claro" width="88">
+      <img align="left" hspace="10" src="./assets/kratos-logo-card-dark.png#gh-dark-mode-only" alt="Logo Kratos em versão escura" width="88">
+      <img align="left" hspace="10" src="./assets/kratos-logo-card.png#gh-light-mode-only" alt="Logo Kratos em versão clara" width="88">
       <h3>Kratos</h3>
       <sub>EXPERIÊNCIA CORPORATIVA</sub><br>
       FDS para agroquímicos, ETAM, Firebird e workflow.<br>
@@ -107,21 +108,11 @@ Alguns trabalhos que mostram como eu penso e construo, do produto público à op
 ## Stack
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-00B0FF?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-0033FF?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-00B0FF?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-0033FF?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-00B0FF?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-00A86B?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Next.js-0033FF?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,docker,linux,git,githubactions,supabase&amp;perline=6&amp;theme=dark#gh-dark-mode-only" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Docker, Linux, Git, GitHub Actions e Supabase em tema escuro">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,docker,linux,git,githubactions,supabase&amp;perline=6&amp;theme=light#gh-light-mode-only" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Docker, Linux, Git, GitHub Actions e Supabase em tema claro">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Docker-00B0FF?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-00A86B?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/SQL-0033FF?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Firebird-0033FF?style=flat-square&logo=firebird&logoColor=white" alt="Firebird">
-  <img src="https://img.shields.io/badge/Supabase-00A86B?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0033FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  <sub>Também trabalho com APIs REST, JWT, Shell/Bash, SQL, Firebird, Firebase, Tailwind CSS, shadcn/ui, Web Speech API, ExcelJS e jsPDF.</sub>
 </p>
 
 <details>
@@ -129,7 +120,7 @@ Alguns trabalhos que mostram como eu penso e construo, do produto público à op
 
   <br>
 
-  APIs REST, JWT, Shell/Bash, Oracle SQL Developer, Microsoft SQL Server, Firebase, Tailwind CSS, shadcn/ui, Web Speech API, ExcelJS e jsPDF.
+  Oracle SQL Developer e Microsoft SQL Server fazem parte da experiência corporativa; as tecnologias de uso recorrente ficam visíveis na linha acima.
 </details>
 
 ## Experiência e formação
