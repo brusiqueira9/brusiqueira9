@@ -1,48 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
   <title id="title">Visão rápida do trabalho de Bruno Siqueira</title>
-  <desc id="desc">Painel com o processo de trabalho, tecnologias centrais e indicadores públicos do perfil.</desc>
-  <rect width="1200" height="320" rx="18" fill="#000000"/>
-  <rect x="18" y="18" width="426" height="284" rx="14" fill="#001A33" stroke="#17384D"/>
-  <rect x="462" y="18" width="720" height="284" rx="14" fill="#0B1118" stroke="#17384D"/>
-
-  <text x="46" y="57" fill="#77D8FF" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">PROCESSO DE ENTREGA</text>
-  <text x="46" y="87" fill="#F7F9FC" font-family="Arial, sans-serif" font-size="17" font-weight="700">Do problema ao sistema</text>
-  <text x="46" y="112" fill="#A9C2D1" font-family="Arial, sans-serif" font-size="13">Clareza antes da complexidade.</text>
-
-  <path d="M73 153 H362" stroke="#2B536B" stroke-width="2"/>
-  <g font-family="Arial, sans-serif">
-    <circle cx="73" cy="153" r="10" fill="#00B0FF"/>
-    <circle cx="169" cy="153" r="10" fill="#0033FF"/>
-    <circle cx="265" cy="153" r="10" fill="#00A86B"/>
-    <circle cx="362" cy="153" r="10" fill="#00B0FF"/>
-    <text x="73" y="190" fill="#F7F9FC" font-size="12" text-anchor="middle">entender</text>
-    <text x="73" y="207" fill="#8EA9BA" font-size="11" text-anchor="middle">o processo</text>
-    <text x="169" y="190" fill="#F7F9FC" font-size="12" text-anchor="middle">organizar</text>
-    <text x="169" y="207" fill="#8EA9BA" font-size="11" text-anchor="middle">domínio e dados</text>
-    <text x="265" y="190" fill="#F7F9FC" font-size="12" text-anchor="middle">construir</text>
-    <text x="265" y="207" fill="#8EA9BA" font-size="11" text-anchor="middle">com clareza</text>
-    <text x="362" y="190" fill="#F7F9FC" font-size="12" text-anchor="middle">evoluir</text>
-    <text x="362" y="207" fill="#8EA9BA" font-size="11" text-anchor="middle">com segurança</text>
+  <desc id="desc">Processo de entrega e quatro indicadores do perfil em tema escuro.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#00B0FF"/>
+      <stop offset="1" stop-color="#00A86B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="310" rx="18" fill="#000000"/>
+  <rect x="24" y="24" width="734" height="262" rx="15" fill="#001A33" stroke="#17384D"/>
+  <rect x="782" y="24" width="394" height="262" rx="15" fill="#0B1118" stroke="#263B4B"/>
+  <path d="M24 24H758" stroke="#00B0FF" stroke-width="4"/>
+  <path d="M782 24H1176" stroke="#00A86B" stroke-width="4"/>
+  <text x="48" y="57" fill="#77D8FF" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">PROCESSO DE ENTREGA</text>
+  <text x="48" y="87" fill="#F7F9FC" font-family="Arial,sans-serif" font-size="22" font-weight="700">Do problema ao sistema</text>
+  <text x="48" y="112" fill="#A9C2D1" font-family="Arial,sans-serif" font-size="13">Clareza antes da complexidade.</text>
+  <path d="M88 184H686" stroke="#1D4B66" stroke-width="3" stroke-linecap="round"/>
+  <path d="M88 184H686" stroke="url(#accent)" stroke-width="2" stroke-dasharray="3 13" stroke-linecap="round"/>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <circle cx="88" cy="184" r="13" fill="#063D5A" stroke="#77D8FF" stroke-width="2"/><circle cx="288" cy="184" r="13" fill="#063D5A" stroke="#77D8FF" stroke-width="2"/><circle cx="488" cy="184" r="13" fill="#123B3A" stroke="#6BE3B0" stroke-width="2"/><circle cx="686" cy="184" r="13" fill="#123B3A" stroke="#6BE3B0" stroke-width="2"/>
+    <text x="88" y="188" fill="#F7F9FC" font-size="12" font-weight="700">01</text><text x="288" y="188" fill="#F7F9FC" font-size="12" font-weight="700">02</text><text x="488" y="188" fill="#F7F9FC" font-size="12" font-weight="700">03</text><text x="686" y="188" fill="#F7F9FC" font-size="12" font-weight="700">04</text>
+    <text x="88" y="218" fill="#D7E6EE" font-size="12">entender</text><text x="288" y="218" fill="#D7E6EE" font-size="12">organizar</text><text x="488" y="218" fill="#D7E6EE" font-size="12">construir</text><text x="686" y="218" fill="#D7E6EE" font-size="12">evoluir</text>
   </g>
-  <text x="46" y="263" fill="#77D8FF" font-family="Consolas, monospace" font-size="12">web / APIs / cloud / dados / operação</text>
-
-  <text x="490" y="57" fill="#77D8FF" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">INDICADORES DO PERFIL</text>
-  <g font-family="Arial, sans-serif">
-    <rect x="490" y="80" width="322" height="84" rx="12" fill="#101B25" stroke="#214155"/>
-    <rect x="832" y="80" width="322" height="84" rx="12" fill="#101B25" stroke="#214155"/>
-    <rect x="490" y="180" width="322" height="84" rx="12" fill="#101B25" stroke="#214155"/>
-    <rect x="832" y="180" width="322" height="84" rx="12" fill="#101B25" stroke="#214155"/>
-    <text x="516" y="122" fill="#F7F9FC" font-size="28" font-weight="800">14</text>
-    <text x="516" y="145" fill="#8EA9BA" font-size="12">repositórios públicos</text>
-    <text x="858" y="122" fill="#F7F9FC" font-size="28" font-weight="800">06</text>
-    <text x="858" y="145" fill="#8EA9BA" font-size="12">projetos em destaque</text>
-    <text x="516" y="222" fill="#F7F9FC" font-size="28" font-weight="800">01</text>
-    <text x="516" y="245" fill="#8EA9BA" font-size="12">app público</text>
-    <text x="858" y="222" fill="#F7F9FC" font-size="28" font-weight="800">10+</text>
-    <text x="858" y="245" fill="#8EA9BA" font-size="12">entregas corporativas</text>
-    <rect x="789" y="105" width="4" height="34" rx="2" fill="#00B0FF"/>
-    <rect x="1131" y="105" width="4" height="34" rx="2" fill="#0033FF"/>
-    <rect x="789" y="205" width="4" height="34" rx="2" fill="#00A86B"/>
-    <rect x="1131" y="205" width="4" height="34" rx="2" fill="#00B0FF"/>
+  <path d="M48 251H722" stroke="#17384D"/>
+  <text x="48" y="271" fill="#8EA9BA" font-family="Arial,sans-serif" font-size="12">A solução precisa ser útil no primeiro dia e sustentável depois.</text>
+  <text x="810" y="57" fill="#6BE3B0" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">INDICADORES DO PERFIL</text>
+  <g font-family="Arial,sans-serif">
+    <text x="810" y="102" fill="#77D8FF" font-size="28" font-weight="700">14</text><text x="858" y="101" fill="#D7E6EE" font-size="12">repos públicos</text>
+    <text x="810" y="151" fill="#77D8FF" font-size="28" font-weight="700">06</text><text x="858" y="150" fill="#D7E6EE" font-size="12">projetos selecionados</text>
+    <text x="810" y="200" fill="#6BE3B0" font-size="28" font-weight="700">01</text><text x="858" y="199" fill="#D7E6EE" font-size="12">app público</text>
+    <text x="810" y="249" fill="#6BE3B0" font-size="28" font-weight="700">10+</text><text x="878" y="248" fill="#D7E6EE" font-size="12">entregas corporativas</text>
   </g>
+  <path d="M810 118H1146M810 167H1146M810 216H1146" stroke="#1C2E3B"/>
 </svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">O que Bruno Siqueira constrói</title>
+  <desc id="desc">Arquitetura, produtos web e operação, apresentados em três blocos compactos.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#006C9D"/>
+      <stop offset="1" stop-color="#00875A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" rx="18" fill="#F7F9FC"/>
+  <path d="M34 28H1166" stroke="#D7E1EA"/>
+  <path d="M34 28H240" stroke="#006C9D" stroke-width="3"/>
+  <text x="36" y="18" fill="#006C9D" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">COMO EU TRANSFORMO IDEIAS EM ENTREGA</text>
+  <g transform="translate(34 48)">
+    <rect width="352" height="142" rx="14" fill="#EAF6FF" stroke="#B9D7E8"/>
+    <rect x="0" y="0" width="352" height="4" rx="2" fill="#006C9D"/>
+    <circle cx="31" cy="34" r="18" fill="#D2ECFA" stroke="#006C9D"/>
+    <path d="M23 34h16M31 26v16M25 28l12 12M37 28L25 40" stroke="#006C9D" stroke-width="2" stroke-linecap="round"/>
+    <text x="61" y="33" fill="#14212D" font-family="Arial,sans-serif" font-size="17" font-weight="700">Arquitetura</text>
+    <text x="22" y="72" fill="#486075" font-family="Arial,sans-serif" font-size="13">Serviços, integrações, dados</text>
+    <text x="22" y="91" fill="#486075" font-family="Arial,sans-serif" font-size="13">e limites que fazem sentido.</text>
+    <path d="M22 119H112M120 119H208M216 119H306" stroke="#A4C8DB" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="112" cy="119" r="4" fill="#006C9D"/><circle cx="208" cy="119" r="4" fill="#00875A"/>
+  </g>
+  <g transform="translate(424 48)">
+    <rect width="352" height="142" rx="14" fill="#FFFFFF" stroke="#D7E1EA"/>
+    <rect x="0" y="0" width="352" height="4" rx="2" fill="#00875A"/>
+    <circle cx="31" cy="34" r="18" fill="#DFF7EC" stroke="#00875A"/>
+    <rect x="21" y="25" width="20" height="16" rx="3" fill="none" stroke="#00875A" stroke-width="2"/>
+    <path d="M25 30h12M25 35h8" stroke="#00875A" stroke-width="2" stroke-linecap="round"/>
+    <text x="61" y="33" fill="#14212D" font-family="Arial,sans-serif" font-size="17" font-weight="700">Produtos web</text>
+    <text x="22" y="72" fill="#486075" font-family="Arial,sans-serif" font-size="13">Interfaces, APIs e automações</text>
+    <text x="22" y="91" fill="#486075" font-family="Arial,sans-serif" font-size="13">que cabem na rotina de alguém.</text>
+    <path d="M22 119H112M120 119H208M216 119H306" stroke="#B6DCCB" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="112" cy="119" r="4" fill="#006C9D"/><circle cx="208" cy="119" r="4" fill="#00875A"/>
+  </g>
+  <g transform="translate(814 48)">
+    <rect width="352" height="142" rx="14" fill="#F0FBF7" stroke="#B6DCCB"/>
+    <rect x="0" y="0" width="352" height="4" rx="2" fill="#00875A"/>
+    <circle cx="31" cy="34" r="18" fill="#DFF7EC" stroke="#00875A"/>
+    <path d="M24 28l5 5-5 5M32 39h10" stroke="#00875A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="61" y="33" fill="#14212D" font-family="Arial,sans-serif" font-size="17" font-weight="700">Operação</text>
+    <text x="22" y="72" fill="#486075" font-family="Arial,sans-serif" font-size="13">Linux, Docker, bancos, suporte</text>
+    <text x="22" y="91" fill="#486075" font-family="Arial,sans-serif" font-size="13">e uma entrega que segue de pé.</text>
+    <path d="M22 119H112M120 119H208M216 119H306" stroke="#B6DCCB" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="112" cy="119" r="4" fill="#006C9D"/><circle cx="208" cy="119" r="4" fill="#00875A"/>
+  </g>
+  <path d="M386 119H424M776 119H814" stroke="url(#line)" stroke-width="2" stroke-dasharray="4 7"/>
+</svg>

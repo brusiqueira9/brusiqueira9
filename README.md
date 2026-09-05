@@ -10,7 +10,7 @@
 
   <p><strong>Analista de TI | Arquiteto de Software | Web, Cloud e Integrações</strong></p>
 
-  <p>Transformo processos reais em sistemas claros, integrados e prontos para evoluir.</p>
+  <p>Gosto de pegar processos confusos e transformar em sistemas que as pessoas conseguem usar e manter.</p>
 
   <p>
     <a href="https://brunosiqueira.tec.br/"><img src="https://img.shields.io/badge/Site%20oficial-0033FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Abrir site oficial"></a>
@@ -19,73 +19,69 @@
   </p>
 </div>
 
-> Estou disponível para novas oportunidades em tecnologia, com foco em arquitetura, desenvolvimento web, cloud, integração de sistemas e resolução de problemas operacionais.
+> Estou procurando minha próxima oportunidade em tecnologia. Tenho experiência entre suporte, desenvolvimento web, cloud e arquitetura de software.
 
 ## O que eu construo
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top"><strong>Arquitetura</strong><br>Serviços, integrações, dados e limites bem definidos.</td>
-    <td width="33%" valign="top"><strong>Produtos web</strong><br>Interfaces, APIs e automações para uso diário.</td>
-    <td width="33%" valign="top"><strong>Operação</strong><br>Linux, Docker, bancos, suporte e entrega contínua.</td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/capabilities-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/capabilities-light.svg">
+  <img src="./assets/capabilities-light.svg" alt="Três áreas de atuação: arquitetura, produtos web e operação" width="100%">
+</picture>
 
 ## Visão rápida
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-signals-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-signals-light.svg">
-  <img src="./assets/profile-signals-dark.svg" alt="Painel com processo de entrega, tecnologias centrais, 14 repositórios públicos, 6 projetos em destaque, 1 app público e mais de 10 entregas corporativas" width="100%">
+  <img src="./assets/profile-signals-light.svg" alt="Painel com processo de entrega e indicadores: 14 repositórios públicos, 6 projetos selecionados, 1 app público e mais de 10 entregas corporativas" width="100%">
 </picture>
 
 ## Trabalho selecionado
 
-Projetos diferentes, com a mesma preocupação: reduzir atrito e transformar rotina em fluxo confiável.
+Alguns trabalhos que mostram como eu penso e construo, do produto público à operação corporativa.
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://athonpace.fit/">AthonPace</a></h3>
-      <a href="https://athonpace.fit/"><img src="./assets/projects/athonpace-card.png" alt="Logo AthonPace sobre fundo azul-noite" width="100%"></a>
-      <strong>App público de corrida</strong><br>
-      Publicado em <a href="https://athonpace.fit/">athonpace.fit</a>, com planos individualizados para acompanhar rotina, esforço e evolução de cada corredor.
-      <br><sub>React, TypeScript, Supabase, Strava</sub>
+      <table width="100%"><tr>
+        <td width="116" valign="top"><a href="https://athonpace.fit/"><img src="./assets/projects/athonpace-card.png" alt="Logo AthonPace sobre fundo azul-noite" width="108"></a></td>
+        <td valign="top"><h3><a href="https://athonpace.fit/">AthonPace</a></h3><sub>APP PÚBLICO</sub><br>Planos de corrida para acompanhar rotina e evolução.<br><sub>React · TypeScript · Supabase · Strava</sub></td>
+      </tr></table>
     </td>
     <td width="50%" valign="top">
-      <h3>Kratos</h3>
-      <img src="./assets/kratos-logo-card.png" alt="Logo Kratos sobre fundo claro" width="100%">
-      <strong>Solução corporativa para agroquímicos</strong><br>
-      Geração e administração de Fichas de Dados de Segurança, Firebird, cálculo ETAM, matérias-primas, e-mail e workflow.
-      <br><sub>Projeto não público, desenvolvido em experiência corporativa</sub>
+      <table width="100%"><tr>
+        <td width="116" valign="top"><img src="./assets/kratos-logo-card.png" alt="Logo Kratos sobre fundo claro" width="108"></td>
+        <td valign="top"><h3>Kratos</h3><sub>EXPERIÊNCIA CORPORATIVA</sub><br>FDS para agroquímicos, ETAM, Firebird e workflow.<br><sub>Dados · automação · notificações</sub></td>
+      </tr></table>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/brusiqueira9/expense-guru-supabase">Expense Guru</a></h3>
-      <a href="https://github.com/brusiqueira9/expense-guru-supabase"><img src="./assets/projects/expenseguru.png" alt="Dashboard do Expense Guru" width="100%"></a>
-      Dashboard financeiro para receitas, despesas, metas e visão do saldo.
-      <br><sub>React, TypeScript, Supabase, shadcn/ui</sub>
+      <table width="100%"><tr>
+        <td width="116" valign="top"><a href="https://github.com/brusiqueira9/expense-guru-supabase"><img src="./assets/projects/expenseguru.png" alt="Dashboard do Expense Guru" width="108"></a></td>
+        <td valign="top"><h3><a href="https://github.com/brusiqueira9/expense-guru-supabase">Expense Guru</a></h3><sub>PRODUTO WEB</sub><br>Finanças pessoais com visão rápida do saldo.<br><sub>React · TypeScript · Supabase</sub></td>
+      </tr></table>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/brusiqueira9/chamada_motorista">Chama Motorista</a></h3>
-      <a href="https://github.com/brusiqueira9/chamada_motorista"><img src="./assets/projects/chamamotorista.png" alt="Interface do Chama Motorista" width="100%"></a>
-      Sistema de chamada logística por voz com nome, placa e tipo de operação.
-      <br><sub>JavaScript, Web Speech API, LocalStorage</sub>
+      <table width="100%"><tr>
+        <td width="116" valign="top"><a href="https://github.com/brusiqueira9/chamada_motorista"><img src="./assets/projects/chamamotorista.png" alt="Interface do Chama Motorista" width="108"></a></td>
+        <td valign="top"><h3><a href="https://github.com/brusiqueira9/chamada_motorista">Chama Motorista</a></h3><sub>AUTOMAÇÃO</sub><br>Chamada logística por voz, nome, placa e operação.<br><sub>JavaScript · Web Speech API</sub></td>
+      </tr></table>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/brusiqueira9/ficha-reserva-hotel">Ficha de reserva</a></h3>
-      <a href="https://github.com/brusiqueira9/ficha-reserva-hotel"><img src="./assets/projects/fichareservahotel.png" alt="Sistema de ficha de reserva de hotel" width="100%"></a>
-      Fluxo para padronizar reservas e gerar PDFs personalizados para hotéis parceiros.
-      <br><sub>HTML, CSS, JavaScript, jsPDF</sub>
+      <table width="100%"><tr>
+        <td width="116" valign="top"><a href="https://github.com/brusiqueira9/ficha-reserva-hotel"><img src="./assets/projects/fichareservahotel.png" alt="Sistema de ficha de reserva de hotel" width="108"></a></td>
+        <td valign="top"><h3><a href="https://github.com/brusiqueira9/ficha-reserva-hotel">Ficha de reserva</a></h3><sub>FLUXO OPERACIONAL</sub><br>Reservas padronizadas e PDFs para hotéis.<br><sub>HTML · CSS · JavaScript · jsPDF</sub></td>
+      </tr></table>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/brusiqueira9/linux-projeto1-iac">Linux e IaC</a></h3>
-      <a href="https://github.com/brusiqueira9/linux-projeto1-iac"><img src="./assets/projects/IAClinux.png" alt="Projetos Linux e infraestrutura como código" width="100%"></a>
-      Automação Bash de usuários, grupos, diretórios e permissões em ambientes Linux.
-      <br><sub>Shell Script, Linux, administração de sistemas</sub>
+      <table width="100%"><tr>
+        <td width="116" valign="top"><a href="https://github.com/brusiqueira9/linux-projeto1-iac"><img src="./assets/projects/IAClinux.png" alt="Projetos Linux e infraestrutura como código" width="108"></a></td>
+        <td valign="top"><h3><a href="https://github.com/brusiqueira9/linux-projeto1-iac">Linux e IaC</a></h3><sub>INFRAESTRUTURA</sub><br>Automação Bash de ambientes, usuários e permissões.<br><sub>Shell Script · Linux · IaC</sub></td>
+      </tr></table>
     </td>
   </tr>
 </table>
@@ -95,18 +91,18 @@ Projetos diferentes, com a mesma preocupação: reduzir atrito e transformar rot
 
   <br>
 
-  Hub de sistemas integrados, monitoramento de dispositivos e impressoras, vínculo de itens com ERP, consulta de status de pedidos e processamento de planilhas Excel.
+  Também já trabalhei com integração de sistemas, monitoramento de dispositivos, vínculo com ERP, consulta de pedidos e processamento de planilhas Excel.
 </details>
 
 ## Como eu penso
 
 ```text
-entender o processo  →  organizar domínio e dados  →  construir com clareza  →  deixar evoluir
+  entender o processo  →  organizar o essencial  →  construir  →  melhorar com o uso
 ```
 
-- Começo pelo problema, pelas pessoas e pelo resultado esperado.
-- Escolho a menor arquitetura que resolva bem o cenário atual sem bloquear o próximo passo.
-- Cuido da operação: documentação, logs, permissões, integração e manutenção fazem parte da entrega.
+- Antes de escolher a tecnologia, tento entender o que precisa funcionar de verdade.
+- Prefiro uma solução simples, bem organizada e pronta para crescer.
+- Entregar também é documentar, integrar e deixar a operação tranquila para quem vai usar.
 
 ## Stack
 
@@ -145,7 +141,7 @@ entender o processo  →  organizar domínio e dados  →  construir com clareza
 
 ## Contato
 
-Se você está formando um time e precisa conectar produto, operação e engenharia, [vamos conversar](mailto:contato@brunosiqueira.tec.br).
+Se o seu time precisa de alguém que transite entre suporte, produto e engenharia, [vamos conversar](mailto:contato@brunosiqueira.tec.br).
 
 <p>
   <a href="mailto:contato@brunosiqueira.tec.br"><img src="https://img.shields.io/badge/E--mail-00A86B?style=flat-square&logo=gmail&logoColor=white" alt="Enviar e-mail"></a>
