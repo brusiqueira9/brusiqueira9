@@ -108,8 +108,8 @@ Alguns trabalhos que mostram como eu penso e construo, do produto público à op
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,docker,linux,git,githubactions,supabase&amp;perline=6&amp;theme=dark#gh-dark-mode-only" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Docker, Linux, Git, GitHub Actions e Supabase em tema escuro">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,docker,linux,git,githubactions,supabase&amp;perline=6&amp;theme=light#gh-light-mode-only" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Docker, Linux, Git, GitHub Actions e Supabase em tema claro">
+  <img src="./assets/skill-stack-dark.svg#gh-dark-mode-only" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Docker, Linux, Git, GitHub Actions e Supabase em tema escuro">
+  <img src="./assets/skill-stack-light.svg#gh-light-mode-only" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Docker, Linux, Git, GitHub Actions e Supabase em tema claro">
 </p>
 <p>
   <sub>Também trabalho com APIs REST, JWT, Shell/Bash, SQL, Firebird, Firebase, Tailwind CSS, shadcn/ui, Web Speech API, ExcelJS e jsPDF.</sub>
