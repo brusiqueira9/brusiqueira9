@@ -38,50 +38,50 @@ Alguns trabalhos que mostram como eu penso e construo, do produto público à op
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://athonpace.fit/"><img src="./assets/projects/athonpace-card.png" alt="Logo AthonPace sobre fundo azul-noite" width="96"></a><br>
+      <a href="https://athonpace.fit/"><img align="left" hspace="10" src="./assets/projects/athonpace-card.png" alt="Logo AthonPace sobre fundo azul-noite" width="88"></a>
       <h3><a href="https://athonpace.fit/">AthonPace</a></h3>
-      <sub>APP PÚBLICO</sub><br>
+      <sub>APP PÚBLICO · ATHONPACE.FIT</sub><br>
       Planos de corrida para acompanhar rotina e evolução.<br>
-      <sub>React · TypeScript · Supabase · Strava</sub>
+      <sub>React · TypeScript · Supabase</sub><br clear="left">
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/kratos-logo-card.png" alt="Logo Kratos sobre fundo claro" width="96"><br>
+      <img align="left" hspace="10" src="./assets/kratos-logo-card.png" alt="Logo Kratos sobre fundo claro" width="88">
       <h3>Kratos</h3>
       <sub>EXPERIÊNCIA CORPORATIVA</sub><br>
       FDS para agroquímicos, ETAM, Firebird e workflow.<br>
-      <sub>Dados · automação · notificações</sub>
+      <sub>Dados · automação · notificações</sub><br clear="left">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/brusiqueira9/expense-guru-supabase"><img src="./assets/projects/expenseguru.png" alt="Dashboard do Expense Guru" width="96"></a><br>
+      <a href="https://github.com/brusiqueira9/expense-guru-supabase"><img align="left" hspace="10" src="./assets/projects/expenseguru.png" alt="Dashboard do Expense Guru" width="88"></a>
       <h3><a href="https://github.com/brusiqueira9/expense-guru-supabase">Expense Guru</a></h3>
       <sub>PRODUTO WEB</sub><br>
       Finanças pessoais com visão rápida do saldo.<br>
-      <sub>React · TypeScript · Supabase</sub>
+      <sub>React · TypeScript · Supabase</sub><br clear="left">
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/brusiqueira9/chamada_motorista"><img src="./assets/projects/chamamotorista.png" alt="Interface do Chama Motorista" width="96"></a><br>
+      <a href="https://github.com/brusiqueira9/chamada_motorista"><img align="left" hspace="10" src="./assets/projects/chamamotorista.png" alt="Interface do Chama Motorista" width="88"></a>
       <h3><a href="https://github.com/brusiqueira9/chamada_motorista">Chama Motorista</a></h3>
       <sub>AUTOMAÇÃO</sub><br>
       Chamada logística por voz, nome, placa e operação.<br>
-      <sub>JavaScript · Web Speech API</sub>
+      <sub>JavaScript · Web Speech API</sub><br clear="left">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/brusiqueira9/ficha-reserva-hotel"><img src="./assets/projects/fichareservahotel.png" alt="Sistema de ficha de reserva de hotel" width="96"></a><br>
+      <a href="https://github.com/brusiqueira9/ficha-reserva-hotel"><img align="left" hspace="10" src="./assets/projects/fichareservahotel.png" alt="Sistema de ficha de reserva de hotel" width="88"></a>
       <h3><a href="https://github.com/brusiqueira9/ficha-reserva-hotel">Ficha de reserva</a></h3>
       <sub>FLUXO OPERACIONAL</sub><br>
       Reservas padronizadas e PDFs para hotéis.<br>
-      <sub>HTML · CSS · JavaScript · jsPDF</sub>
+      <sub>HTML · CSS · JavaScript · jsPDF</sub><br clear="left">
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/brusiqueira9/linux-projeto1-iac"><img src="./assets/projects/IAClinux.png" alt="Projetos Linux e infraestrutura como código" width="96"></a><br>
+      <a href="https://github.com/brusiqueira9/linux-projeto1-iac"><img align="left" hspace="10" src="./assets/projects/IAClinux.png" alt="Projetos Linux e infraestrutura como código" width="88"></a>
       <h3><a href="https://github.com/brusiqueira9/linux-projeto1-iac">Linux e IaC</a></h3>
       <sub>INFRAESTRUTURA</sub><br>
       Automação Bash de ambientes, usuários e permissões.<br>
-      <sub>Shell Script · Linux · IaC</sub>
+      <sub>Shell Script · Linux · IaC</sub><br clear="left">
     </td>
   </tr>
 </table>
