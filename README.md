@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="./assets/official-signature-transparent.png" alt="Assinatura oficial Bruno Siqueira" width="260">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/official-signature-light.png">
+    <img src="./assets/official-signature-transparent.png" alt="Assinatura oficial Bruno Siqueira" width="200">
+  </picture>
 
   <h1>Olá, eu sou Bruno Siqueira.</h1>
 
@@ -30,7 +33,7 @@
 
 Minha experiência combina suporte técnico, administração de ambientes, desenvolvimento web e arquitetura de software. Gosto de atuar no ponto em que negócio e tecnologia se encontram: entender o fluxo, organizar os dados, escolher a solução adequada e entregar algo que continue fazendo sentido depois da primeira versão.
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top"><strong>Arquitetura</strong><br>Serviços, integrações, dados e limites bem definidos.</td>
     <td width="33%" valign="top"><strong>Produtos web</strong><br>Interfaces, APIs e automações para uso diário.</td>
@@ -40,7 +43,7 @@ Minha experiência combina suporte técnico, administração de ambientes, desen
 
 ## Sinais do trabalho
 
-<table>
+<table width="100%">
   <tr>
     <td width="25%" align="center"><strong>03+</strong><br><sub>anos de experiência</sub></td>
     <td width="25%" align="center"><strong>10+</strong><br><sub>soluções entregues</sub></td>
