@@ -14,6 +14,18 @@
   </p>
 </div>
 
+<p align="center">
+  <a href="#a-proposta">PROPOSTA</a> ·
+  <a href="#o-que-eu-construo">CAPACIDADES</a> ·
+  <a href="#sinais-de-atividade">ATIVIDADE</a> ·
+  <a href="#trabalho-selecionado">PROJETOS</a> ·
+  <a href="#vamos-conversar">CONTATO</a>
+</p>
+
+<p align="center">
+  <sub>STATUS // OPEN TO NEW OPPORTUNITIES · BASE // BRAZIL · FOCUS // SOFTWARE + CLOUD + WEB</sub>
+</p>
+
 ## A proposta
 
 Transformo desafios de negócio em soluções web práticas, escaláveis e fáceis de manter. Minha experiência combina suporte técnico, administração de ambientes, desenvolvimento de aplicações e visão de arquitetura.
