@@ -2,7 +2,7 @@
   <p>
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="./assets/official-signature.png">
-      <img src="./assets/official-signature-transparent.png" alt="Assinatura oficial Bruno Siqueira" width="220">
+      <img src="./assets/official-signature.png" alt="Assinatura oficial Bruno Siqueira" width="220">
     </picture>
   </p>
 
