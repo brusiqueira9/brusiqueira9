@@ -1,0 +1,47 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#000000"/>
+      <stop offset="0.52" stop-color="#001A33"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <linearGradient id="line" x1="90" y1="0" x2="1100" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00B0FF"/>
+      <stop offset="1" stop-color="#0033FF"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 96) rotate(90) scale(150)">
+      <stop stop-color="#00B0FF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#00B0FF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="28" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="27" stroke="#00B0FF" stroke-opacity="0.24" stroke-width="2"/>
+  <circle cx="1010" cy="96" r="150" fill="url(#halo)"/>
+
+  <g opacity="0.52" stroke="url(#line)" stroke-width="1.4">
+    <ellipse cx="1008" cy="96" rx="178" ry="60" transform="rotate(-25 1008 96)"/>
+    <ellipse cx="1008" cy="96" rx="178" ry="60" transform="rotate(35 1008 96)"/>
+    <ellipse cx="1008" cy="96" rx="178" ry="60" transform="rotate(90 1008 96)"/>
+  </g>
+  <circle cx="1008" cy="96" r="9" fill="#00B0FF" filter="url(#glow)"/>
+  <circle cx="855" cy="76" r="3" fill="#00A86B"/>
+  <circle cx="1107" cy="142" r="3" fill="#00B0FF"/>
+  <circle cx="1008" cy="239" r="3" fill="#0033FF"/>
+
+  <g fill="#F7F9FC" opacity="0.7">
+    <circle cx="690" cy="45" r="1.5"/><circle cx="738" cy="218" r="1.5"/>
+    <circle cx="818" cy="255" r="1.2"/><circle cx="1128" cy="52" r="1.4"/>
+    <circle cx="1162" cy="226" r="1.2"/><circle cx="560" cy="84" r="1.1"/>
+  </g>
+
+  <text x="76" y="113" fill="#F7F9FC" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-1.2">Bruno Siqueira</text>
+  <text x="79" y="154" fill="#B9C8D6" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="400">TI · arquitetura de software · web · cloud</text>
+  <rect x="80" y="190" width="148" height="3" rx="1.5" fill="url(#line)"/>
+  <text x="248" y="197" fill="#00B0FF" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2.5">BUILD WITH INTENT</text>
+  <text x="80" y="235" fill="#6F879B" font-family="JetBrains Mono, Consolas, monospace" font-size="13">scalable systems / useful products / continuous learning</text>
+</svg>

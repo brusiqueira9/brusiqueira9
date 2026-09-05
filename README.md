@@ -1,104 +1,135 @@
 <div align="center">
-  <img src="./assets/site-logo2.png" alt="Bruno Siqueira" width="520">
+  <img src="./assets/profile-banner.svg" alt="Bruno Siqueira — TI, arquitetura de software, web e cloud" width="100%">
+  <br><br>
+  <img src="./assets/site-logo2.png" alt="Assinatura oficial Bruno Siqueira" width="300">
+
+  <p>
+    <strong>Analista de TI · Arquiteto de Software · Cloud Computing · Desenvolvimento Web</strong>
+  </p>
+
+  <p>
+    <a href="https://brunosiqueira.tec.br/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-00B0FF?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfólio"></a>
+    <a href="https://www.linkedin.com/in/bruno-siqueiratec/"><img src="https://img.shields.io/badge/LinkedIn-0033FF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:contato@brunosiqueira.tec.br"><img src="https://img.shields.io/badge/Dispon%C3%ADvel_para_oportunidades-00A86B?style=flat-square&logoColor=white" alt="Disponível para oportunidades"></a>
+  </p>
 </div>
 
-# Olá, eu sou Bruno Siqueira 👋
+## A proposta
 
-**Analista de TI | Arquiteto de Software | Cloud Computing | Desenvolvimento Web**
+Transformo desafios de negócio em soluções web práticas, escaláveis e fáceis de manter. Minha experiência combina suporte técnico, administração de ambientes, desenvolvimento de aplicações e visão de arquitetura.
 
-Profissional de Tecnologia da Informação com experiência em suporte técnico, administração de sistemas e desenvolvimento de soluções web. Gosto de transformar desafios de negócio em aplicações práticas, escaláveis e fáceis de manter.
+Estou disponível para uma nova oportunidade em tecnologia, especialmente em times que valorizem clareza, colaboração e evolução contínua.
 
-Atualmente, estou em busca de uma nova oportunidade para contribuir com times de tecnologia, aplicar minha experiência e continuar evoluindo em arquitetura de software, cloud computing e desenvolvimento de sistemas.
+## O que eu construo
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Arquitetura de software</strong><br>
+      Sistemas escaláveis, resilientes, distribuídos e orientados a microsserviços.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Produtos web</strong><br>
+      Interfaces, APIs REST, integrações e automações que resolvem problemas reais.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Cloud e infraestrutura</strong><br>
+      Docker, Linux, administração de ambientes, migrações e práticas de CI/CD.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Dados e operação</strong><br>
+      SQL, Oracle, Firebird, Microsoft SQL Server, Firebase e Supabase.
+    </td>
+  </tr>
+</table>
+
+## Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Dispon%C3%ADvel_para_novas_oportunidades-00B0FF?style=flat-square&logoColor=white" alt="Disponível para novas oportunidades">
+  <img src="https://img.shields.io/badge/HTML5-00B0FF?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-0033FF?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-00B0FF?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-0033FF?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-00B0FF?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-00A86B?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Next.js-0033FF?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Docker-00B0FF?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-00A86B?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/SQL-0033FF?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Git-00B0FF?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub_Actions-0033FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Supabase-00A86B?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
 </p>
 
-## Em foco
+<details>
+  <summary>Outras ferramentas e conhecimentos</summary>
 
-| Área | Experiência e interesse |
-| --- | --- |
-| Arquitetura | Sistemas escaláveis, resilientes, distribuídos e baseados em microsserviços |
-| Desenvolvimento | Aplicações web, APIs REST, integrações e automações |
-| Infraestrutura | Cloud computing, Docker, Linux, administração de ambientes e CI/CD |
-| Dados | SQL, Oracle, Firebird, Microsoft SQL Server, Firebase e Supabase |
+  APIs REST · JWT · Shell/Bash · Oracle SQL Developer · Microsoft SQL Server · Firebase · Tailwind CSS · shadcn/ui · Web Speech API · ExcelJS · jsPDF
+</details>
 
-## Sobre mim
+## Trabalho selecionado
 
-- Experiência profissional mais recente como Analista de Suporte de TI na AgroCP
-- Formação em Tecnologia em Computação em Nuvem
-- Pós-graduação em Arquitetura de Software
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://athonpace.fit/">AthonPace</a></h3>
+      <img src="./assets/projects/athonpace.png" alt="Logo AthonPace" width="250">
+      <p>Aplicativo público de corrida com planos individualizados que acompanham rotina, esforço e evolução.</p>
+      <sub>React · TypeScript · Supabase · Strava</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Kratos</h3>
+      <img src="./assets/kratos-logo-horizontal.png" alt="Logo Kratos" width="280">
+      <p>Gestão corporativa de Fichas de Dados de Segurança para produtos agroquímicos, com Firebird, ETAM automático, notificações e workflows.</p>
+      <sub>Projeto corporativo não público</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/brusiqueira9/expense-guru-supabase">Expense Guru</a></h3>
+      <img src="./assets/projects/expenseguru.png" alt="Expense Guru" width="240">
+      <p>Controle financeiro pessoal com dashboard, receitas, despesas e metas.</p>
+      <sub>React · TypeScript · Supabase · shadcn/ui</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/brusiqueira9/chamada_motorista">Chama Motorista</a></h3>
+      <img src="./assets/projects/chamamotorista.png" alt="Chama Motorista" width="240">
+      <p>Chamadas logísticas por voz com Web Speech API e armazenamento local.</p>
+      <sub>JavaScript · Web Speech API · LocalStorage</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/brusiqueira9/ficha-reserva-hotel">Ficha de reserva de hotel</a></h3>
+      <img src="./assets/projects/fichareservahotel.png" alt="Ficha de reserva de hotel" width="240">
+      <p>Geração de PDFs personalizados para padronizar reservas de hotel.</p>
+      <sub>HTML · CSS · JavaScript · jsPDF</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/brusiqueira9/linux-projeto1-iac">Linux e IaC</a></h3>
+      <img src="./assets/projects/IAClinux.png" alt="Projetos Linux e IaC" width="240">
+      <p>Automação Bash de usuários, grupos, diretórios e permissões.</p>
+      <sub>Shell Script · Linux · Administração de sistemas</sub>
+    </td>
+  </tr>
+</table>
+
+## Experiência e formação
+
+- Analista de Suporte de TI na AgroCP — experiência profissional mais recente
 - MBA em Arquitetura de Microsserviços
-- Experiência com suporte a sistemas, migração de recursos e administração de ambientes
-- Interesse em soluções escaláveis, resilientes e alinhadas ao negócio
+- Pós-graduação em Arquitetura de Software
+- Tecnologia em Computação em Nuvem
 
-## Tecnologias e ferramentas
+Na prática, também desenvolvi soluções para integração de aplicações, monitoramento de dispositivos, centralização de serviços, consulta de pedidos, processamento de planilhas e integração com bancos Oracle, MySQL e Firebird.
 
-![HTML5](https://img.shields.io/badge/HTML5-00B0FF?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0033FF?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-00B0FF?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0033FF?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-00B0FF?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-00A86B?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0033FF?style=flat-square&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-00B0FF?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-00A86B?style=flat-square&logo=linux&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0033FF?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-00B0FF?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0033FF?style=flat-square&logo=github-actions&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-00A86B?style=flat-square&logo=supabase&logoColor=white)
+## Vamos conversar
 
-Também tenho contato com Oracle SQL Developer, Microsoft SQL Server, Firebase, Supabase, APIs REST, JWT, automação em Shell/Bash e práticas de CI/CD.
-
-## Projetos em destaque
-
-### [AthonPace — Assessoria de corrida adaptativa](https://athonpace.fit/)
-
-<img src="./assets/projects/athonpace.png" alt="AthonPace" width="420">
-
-Aplicativo de corrida criado para montar planos individualizados a partir da rotina, do momento e do objetivo de cada corredor. A plataforma acompanha a execução, o esforço, a dor e a evolução para adaptar os próximos treinos, com integração manual ao Strava e uso simples pelo celular.
-
-Aplicação pública: [athonpace.fit](https://athonpace.fit/). Código-fonte privado.
-
-### Kratos — Gestão de Fichas de Segurança
-
-<img src="./assets/kratos-logo-horizontal.png" alt="Logo do Kratos" width="480">
-
-Aplicativo desenvolvido em experiência corporativa para geração e administração de Fichas de Dados de Segurança (FDS) de produtos agroquímicos. A solução utiliza banco Firebird, automatiza o cálculo de ETAM e centraliza o cadastro de matérias-primas, notificações por e-mail e workflows operacionais.
-
-> Projeto corporativo não público.
-
-### [Expense Guru](https://github.com/brusiqueira9/expense-guru-supabase)
-
-<img src="./assets/projects/expenseguru.png" alt="Expense Guru" width="360">
-
-Aplicação web para controle financeiro pessoal, com dashboard, receitas, despesas e metas. Desenvolvida com React, TypeScript, Tailwind CSS, Supabase e shadcn/ui.
-
-### [Chama Motorista](https://github.com/brusiqueira9/chamada_motorista)
-
-<img src="./assets/projects/chamamotorista.png" alt="Chama Motorista" width="360">
-
-Sistema web para anunciar motoristas por voz, com nome, placa e tipo de operação, utilizando Web Speech API e armazenamento local.
-
-### [Ficha de reserva de hotel](https://github.com/brusiqueira9/ficha-reserva-hotel)
-
-<img src="./assets/projects/fichareservahotel.png" alt="Ficha de reserva de hotel" width="360">
-
-Aplicação para padronizar reservas de hotel e gerar PDFs personalizados, facilitando a comunicação com hotéis parceiros.
-
-### [Projetos Linux e IaC](https://github.com/brusiqueira9/linux-projeto1-iac)
-
-<img src="./assets/projects/IAClinux.png" alt="Projetos Linux e IaC" width="360">
-
-Scripts Bash para automatizar usuários, grupos, diretórios e permissões em ambientes Linux.
-
-## Experiência prática
-
-Além dos projetos públicos, desenvolvi soluções corporativas como o Kratos, além de sistemas para integração de aplicações, monitoramento de dispositivos, centralização de serviços, consulta de pedidos, processamento de planilhas e integração com bancos Oracle, MySQL e Firebird.
-
-## Vamos conversar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0033FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-siqueiratec/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-brunosiqueira.tec.br-00B0FF?style=flat-square&logo=google-chrome&logoColor=white)](https://brunosiqueira.tec.br/)
-[![E-mail](https://img.shields.io/badge/E--mail-contato%40brunosiqueira.tec.br-00A86B?style=flat-square&logo=gmail&logoColor=white)](mailto:contato@brunosiqueira.tec.br)
-[![GitHub](https://img.shields.io/badge/GitHub-brusiqueira9-0033FF?style=flat-square&logo=github&logoColor=white)](https://github.com/brusiqueira9)
+<p>
+  <a href="mailto:contato@brunosiqueira.tec.br"><img src="https://img.shields.io/badge/E--mail-00A86B?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/bruno-siqueiratec/"><img src="https://img.shields.io/badge/LinkedIn-0033FF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://brunosiqueira.tec.br/"><img src="https://img.shields.io/badge/Site_oficial-00B0FF?style=flat-square&logo=google-chrome&logoColor=white" alt="Site oficial"></a>
+  <a href="https://github.com/brusiqueira9"><img src="https://img.shields.io/badge/GitHub-0033FF?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
