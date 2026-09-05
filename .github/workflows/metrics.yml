@@ -45,6 +45,35 @@ jobs:
           plugins_errors_fatal: no
           output_action: commit
 
+      - name: Gerar painel geral — tema claro
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/github-metrics-light.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: brusiqueira9
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_display: large
+          config_timezone: America/Sao_Paulo
+          config_animations: yes
+          config_padding: 8
+          extras_css: |
+            svg { background: #F7F9FC; color: #28465C; }
+            h1, h2, h3 { color: #0033FF; }
+            .field svg { fill: #00A86B; }
+            footer { color: #486075; }
+            .calendar .day { outline-color: rgba(0,51,255,.12); }
+            :root { --color-calendar-graph-day-bg: #E6F0F7; --color-calendar-graph-day-L1-bg: #B7E8D2; --color-calendar-graph-day-L2-bg: #00A86B; --color-calendar-graph-day-L3-bg: #00B0FF; --color-calendar-graph-day-L4-bg: #0033FF; }
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 2%
+          plugin_languages_colors: "javascript:#00B0FF, typescript:#0033FF, html:#00A86B, css:#00B0FF, shell:#0033FF"
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugins_errors_fatal: no
+          output_action: commit
+
       - name: Gerar painel de linguagens
         uses: lowlighter/metrics@latest
         with:
@@ -61,6 +90,30 @@ jobs:
             h2, h3 { color: #00B0FF; }
             .field svg { fill: #00B0FF; }
             footer { color: #6F8DA3; }
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 2%
+          plugin_languages_colors: "javascript:#00B0FF, typescript:#0033FF, html:#00A86B, css:#00B0FF, shell:#0033FF"
+          plugins_errors_fatal: no
+          output_action: commit
+
+      - name: Gerar painel de linguagens — tema claro
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/github-languages-light.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: brusiqueira9
+          template: classic
+          base: ""
+          config_timezone: America/Sao_Paulo
+          config_animations: yes
+          config_padding: 8
+          extras_css: |
+            svg { background: #F7F9FC; color: #28465C; }
+            h2, h3 { color: #0033FF; }
+            .field svg { fill: #00A86B; }
+            footer { color: #486075; }
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 6
@@ -87,6 +140,29 @@ jobs:
             footer { color: #6F8DA3; }
             .calendar .day { outline-color: rgba(0,176,255,.16); }
             :root { --color-calendar-graph-day-bg: #001A33; --color-calendar-graph-day-L1-bg: #0033FF; --color-calendar-graph-day-L2-bg: #0066FF; --color-calendar-graph-day-L3-bg: #00B0FF; --color-calendar-graph-day-L4-bg: #00A86B; }
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugins_errors_fatal: no
+          output_action: commit
+
+      - name: Gerar calendário de contribuições — tema claro
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/github-calendar-light.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: brusiqueira9
+          template: classic
+          base: ""
+          config_timezone: America/Sao_Paulo
+          config_animations: yes
+          config_padding: 8
+          extras_css: |
+            svg { background: #F7F9FC; color: #28465C; }
+            h2, h3 { color: #0033FF; }
+            .field svg { fill: #00A86B; }
+            footer { color: #486075; }
+            .calendar .day { outline-color: rgba(0,51,255,.12); }
+            :root { --color-calendar-graph-day-bg: #E6F0F7; --color-calendar-graph-day-L1-bg: #B7E8D2; --color-calendar-graph-day-L2-bg: #00A86B; --color-calendar-graph-day-L3-bg: #00B0FF; --color-calendar-graph-day-L4-bg: #0033FF; }
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugins_errors_fatal: no
