@@ -35,7 +35,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugins_errors_fatal: no
-          output_action: none
+          output_action: commit
 
       - name: Gerar painel de linguagens
         uses: lowlighter/metrics@latest
@@ -54,7 +54,7 @@ jobs:
           plugin_languages_threshold: 2%
           plugin_languages_colors: "javascript:#00B0FF, typescript:#0033FF, html:#00A86B, css:#00B0FF, shell:#0033FF"
           plugins_errors_fatal: no
-          output_action: none
+          output_action: commit
 
       - name: Gerar calendário de contribuições
         uses: lowlighter/metrics@latest
@@ -70,13 +70,4 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugins_errors_fatal: no
-          output_action: none
-
-      - name: Publicar os gráficos
-        shell: bash
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-metrics.svg assets/github-languages.svg assets/github-calendar.svg
-          git diff --cached --quiet || git commit -m "chore: atualizar métricas do perfil"
-          git push
+          output_action: commit
