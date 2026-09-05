@@ -1,8 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/site-logo1.png">
-    <img src="./assets/site-logo2.png" alt="Assinatura oficial Bruno Siqueira" width="150">
-  </picture>
+  <table><tr><td bgcolor="#000000" align="center"><img src="./assets/official-signature.png" alt="Assinatura oficial Bruno Siqueira" width="250"></td></tr></table>
 
   <h1>Olá, eu sou Bruno Siqueira.</h1>
 
@@ -41,6 +38,25 @@ Minha experiência combina suporte técnico, administração de ambientes, desen
   </tr>
 </table>
 
+## Sinais do trabalho
+
+<table>
+  <tr>
+    <td width="25%" align="center"><strong>03+</strong><br><sub>anos de experiência</sub></td>
+    <td width="25%" align="center"><strong>10+</strong><br><sub>soluções entregues</sub></td>
+    <td width="25%" align="center"><strong>06</strong><br><sub>projetos em destaque</sub></td>
+    <td width="25%" align="center"><strong>02</strong><br><sub>produtos públicos</sub></td>
+  </tr>
+</table>
+
+<p><strong>Core technologies</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Web-00B0FF?style=flat-square&logo=react&logoColor=white" alt="Web">
+  <img src="https://img.shields.io/badge/APIs-0033FF?style=flat-square&logo=fastapi&logoColor=white" alt="APIs">
+  <img src="https://img.shields.io/badge/Cloud-00A86B?style=flat-square&logo=icloud&logoColor=white" alt="Cloud">
+  <img src="https://img.shields.io/badge/Data-00B0FF?style=flat-square&logo=databricks&logoColor=white" alt="Data">
+</p>
+
 ## Trabalho selecionado
 
 Projetos que mostram problemas diferentes, mas a mesma preocupação: reduzir atrito e transformar rotina em fluxo confiável.
@@ -49,14 +65,14 @@ Projetos que mostram problemas diferentes, mas a mesma preocupação: reduzir at
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://athonpace.fit/">AthonPace</a></h3>
-      <table><tr><td bgcolor="#001A33" align="center"><img src="./assets/projects/athonpace.png" alt="Logo AthonPace" width="330"></td></tr></table>
+      <table><tr><td bgcolor="#001A33" align="center"><img src="./assets/projects/athonpace-card.png" alt="Logo AthonPace sobre fundo azul-noite" width="230"></td></tr></table>
       <strong>Produto público de corrida</strong><br>
       App com planos individualizados para acompanhar rotina, esforço e evolução de cada corredor.
       <br><br><sub>React · TypeScript · Supabase · Strava · Produto em produção</sub>
     </td>
     <td width="50%" valign="top">
       <h3>Kratos</h3>
-      <table><tr><td bgcolor="#F7F9FC" align="center"><img src="./assets/kratos-logo-horizontal.png" alt="Logo Kratos" width="330"></td></tr></table>
+      <table><tr><td bgcolor="#F7F9FC" align="center"><img src="./assets/kratos-logo-horizontal.png" alt="Logo Kratos sobre fundo claro" width="230"></td></tr></table>
       <strong>Solução corporativa para agroquímicos</strong><br>
       Geração e administração de Fichas de Dados de Segurança, banco Firebird, cálculo ETAM automático, matérias-primas, notificações por e-mail e workflow.
       <br><br><sub>Projeto não público · Desenvolvido em experiência corporativa</sub>
@@ -65,24 +81,24 @@ Projetos que mostram problemas diferentes, mas a mesma preocupação: reduzir at
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/brusiqueira9/expense-guru-supabase">Expense Guru</a></h3>
-      <table><tr><td bgcolor="#001A33" align="center"><img src="./assets/projects/expenseguru.png" alt="Dashboard do Expense Guru" width="350"></td></tr></table>
+      <table><tr><td bgcolor="#001A33" align="center"><img src="./assets/projects/expenseguru.png" alt="Dashboard do Expense Guru" width="220"></td></tr></table>
       Dashboard financeiro para receitas, despesas, metas e visão do saldo.<br><br><sub>React · TypeScript · Supabase · shadcn/ui</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/brusiqueira9/chamada_motorista">Chama Motorista</a></h3>
-      <table><tr><td bgcolor="#001A33" align="center"><img src="./assets/projects/chamamotorista.png" alt="Interface do Chama Motorista" width="350"></td></tr></table>
+      <table><tr><td bgcolor="#001A33" align="center"><img src="./assets/projects/chamamotorista.png" alt="Interface do Chama Motorista" width="220"></td></tr></table>
       Sistema de chamada logística por voz com nome, placa e tipo de operação.<br><br><sub>JavaScript · Web Speech API · LocalStorage</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/brusiqueira9/ficha-reserva-hotel">Ficha de reserva</a></h3>
-      <table><tr><td bgcolor="#001A33" align="center"><img src="./assets/projects/fichareservahotel.png" alt="Sistema de ficha de reserva de hotel" width="350"></td></tr></table>
+      <table><tr><td bgcolor="#001A33" align="center"><img src="./assets/projects/fichareservahotel.png" alt="Sistema de ficha de reserva de hotel" width="220"></td></tr></table>
       Fluxo para padronizar reservas e gerar PDFs personalizados para hotéis parceiros.<br><br><sub>HTML · CSS · JavaScript · jsPDF</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/brusiqueira9/linux-projeto1-iac">Linux e IaC</a></h3>
-      <table><tr><td bgcolor="#001A33" align="center"><img src="./assets/projects/IAClinux.png" alt="Projetos Linux e infraestrutura como código" width="350"></td></tr></table>
+      <table><tr><td bgcolor="#001A33" align="center"><img src="./assets/projects/IAClinux.png" alt="Projetos Linux e infraestrutura como código" width="220"></td></tr></table>
       Automação Bash de usuários, grupos, diretórios e permissões em ambientes Linux.<br><br><sub>Shell Script · Linux · Administração de sistemas</sub>
     </td>
   </tr>
