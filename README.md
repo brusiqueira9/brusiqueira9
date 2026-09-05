@@ -34,8 +34,9 @@
 ## Visão rápida
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-signals-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-signals-light.svg">
-  <img src="./assets/profile-signals-dark.svg" alt="Painel com processo de entrega, tecnologias centrais, 14 repositórios públicos, 6 projetos em destaque, 2 produtos públicos e mais de 10 entregas corporativas" width="100%">
+  <img src="./assets/profile-signals-dark.svg" alt="Painel com processo de entrega, tecnologias centrais, 14 repositórios públicos, 6 projetos em destaque, 1 app público e mais de 10 entregas corporativas" width="100%">
 </picture>
 
 ## Trabalho selecionado
@@ -47,13 +48,13 @@ Projetos diferentes, com a mesma preocupação: reduzir atrito e transformar rot
     <td width="50%" valign="top">
       <h3><a href="https://athonpace.fit/">AthonPace</a></h3>
       <a href="https://athonpace.fit/"><img src="./assets/projects/athonpace-card.png" alt="Logo AthonPace sobre fundo azul-noite" width="100%"></a>
-      <strong>Produto público de corrida</strong><br>
-      Planos individualizados para acompanhar rotina, esforço e evolução de cada corredor.
+      <strong>App público de corrida</strong><br>
+      Publicado em <a href="https://athonpace.fit/">athonpace.fit</a>, com planos individualizados para acompanhar rotina, esforço e evolução de cada corredor.
       <br><sub>React, TypeScript, Supabase, Strava</sub>
     </td>
     <td width="50%" valign="top">
       <h3>Kratos</h3>
-      <img src="./assets/kratos-logo-horizontal.png" alt="Logo Kratos sobre fundo claro" width="100%">
+      <table width="100%"><tr><td bgcolor="#F7F9FC" align="center"><img src="./assets/kratos-logo-horizontal.png" alt="Logo Kratos sobre fundo claro" width="100%"></td></tr></table>
       <strong>Solução corporativa para agroquímicos</strong><br>
       Geração e administração de Fichas de Dados de Segurança, Firebird, cálculo ETAM, matérias-primas, e-mail e workflow.
       <br><sub>Projeto não público, desenvolvido em experiência corporativa</sub>
