@@ -1,35 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
-  <title id="title">Sinais de entrega e tecnologias centrais de Bruno Siqueira</title>
-  <desc id="desc">Painel com tecnologias web, APIs, cloud, dados e quatro sinais do trabalho profissional.</desc>
-  <rect width="1200" height="250" rx="16" fill="#F7F9FC"/>
-  <rect x="16" y="16" width="430" height="218" rx="12" fill="#FFFFFF" stroke="#D7E1EA"/>
-  <rect x="462" y="16" width="722" height="218" rx="12" fill="#FFFFFF" stroke="#D7E1EA"/>
-  <text x="42" y="52" fill="#486075" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">TECNOLOGIAS CENTRAIS</text>
-  <text x="42" y="78" fill="#14212D" font-family="Inter,Arial,sans-serif" font-size="14">Construo entre produto, integração e operação.</text>
-  <g font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700">
-    <rect x="42" y="105" width="104" height="34" rx="17" fill="#0033FF"/><text x="94" y="127" text-anchor="middle" fill="#FFF">Web</text>
-    <rect x="158" y="105" width="104" height="34" rx="17" fill="#00B0FF"/><text x="210" y="127" text-anchor="middle" fill="#001A33">APIs</text>
-    <rect x="274" y="105" width="104" height="34" rx="17" fill="#00A86B"/><text x="326" y="127" text-anchor="middle" fill="#FFF">Cloud</text>
-    <rect x="42" y="151" width="104" height="34" rx="17" fill="#DDEAF2"/><text x="94" y="173" text-anchor="middle" fill="#28465C">Dados</text>
-    <rect x="158" y="151" width="104" height="34" rx="17" fill="#4040FF"/><text x="210" y="173" text-anchor="middle" fill="#FFF">Linux</text>
-    <rect x="274" y="151" width="104" height="34" rx="17" fill="#00A86B"/><text x="326" y="173" text-anchor="middle" fill="#FFF">Firebird</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Visão rápida do trabalho de Bruno Siqueira</title>
+  <desc id="desc">Painel com o processo de trabalho, tecnologias centrais e indicadores públicos do perfil.</desc>
+  <rect width="1200" height="320" rx="18" fill="#F7F9FC"/>
+  <rect x="18" y="18" width="426" height="284" rx="14" fill="#EAF6FF" stroke="#C8DFEC"/>
+  <rect x="462" y="18" width="720" height="284" rx="14" fill="#FFFFFF" stroke="#D7E1EA"/>
+
+  <text x="46" y="57" fill="#006C9D" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">PROCESSO DE ENTREGA</text>
+  <text x="46" y="87" fill="#14212D" font-family="Arial, sans-serif" font-size="17" font-weight="700">Do problema ao sistema</text>
+  <text x="46" y="112" fill="#486075" font-family="Arial, sans-serif" font-size="13">Clareza antes da complexidade.</text>
+
+  <path d="M73 153 H362" stroke="#B4CFDE" stroke-width="2"/>
+  <g font-family="Arial, sans-serif">
+    <circle cx="73" cy="153" r="10" fill="#00B0FF"/>
+    <circle cx="169" cy="153" r="10" fill="#0033FF"/>
+    <circle cx="265" cy="153" r="10" fill="#00A86B"/>
+    <circle cx="362" cy="153" r="10" fill="#00B0FF"/>
+    <text x="73" y="190" fill="#14212D" font-size="12" text-anchor="middle">entender</text>
+    <text x="73" y="207" fill="#486075" font-size="11" text-anchor="middle">o processo</text>
+    <text x="169" y="190" fill="#14212D" font-size="12" text-anchor="middle">organizar</text>
+    <text x="169" y="207" fill="#486075" font-size="11" text-anchor="middle">domínio e dados</text>
+    <text x="265" y="190" fill="#14212D" font-size="12" text-anchor="middle">construir</text>
+    <text x="265" y="207" fill="#486075" font-size="11" text-anchor="middle">com clareza</text>
+    <text x="362" y="190" fill="#14212D" font-size="12" text-anchor="middle">evoluir</text>
+    <text x="362" y="207" fill="#486075" font-size="11" text-anchor="middle">com segurança</text>
   </g>
-  <text x="42" y="211" fill="#6B7F8E" font-family="JetBrains Mono,Consolas,monospace" font-size="11">bruno-siqueira / delivery-system</text>
-  <text x="490" y="52" fill="#486075" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">SINAIS DO TRABALHO</text>
-  <g transform="translate(850 125)" fill="none" stroke-width="15">
-    <circle r="52" stroke="#D7E1EA"/>
-    <circle r="52" stroke="#00B0FF" stroke-dasharray="72 255" transform="rotate(-90)"/>
-    <circle r="52" stroke="#0033FF" stroke-dasharray="72 255" transform="rotate(0)"/>
-    <circle r="52" stroke="#00A86B" stroke-dasharray="72 255" transform="rotate(90)"/>
-    <circle r="52" stroke="#FF00FF" stroke-dasharray="72 255" transform="rotate(180)"/>
-    <text y="6" text-anchor="middle" fill="#14212D" stroke="none" font-family="Inter,Arial,sans-serif" font-size="23" font-weight="800">04</text>
-    <text y="23" text-anchor="middle" fill="#6B7F8E" stroke="none" font-family="Inter,Arial,sans-serif" font-size="10">camadas</text>
-  </g>
-  <g font-family="Inter,Arial,sans-serif">
-    <text x="530" y="91" fill="#14212D" font-size="24" font-weight="800">03+</text><text x="530" y="111" fill="#6B7F8E" font-size="11">anos de experiência</text>
-    <text x="530" y="159" fill="#14212D" font-size="24" font-weight="800">10+</text><text x="530" y="179" fill="#6B7F8E" font-size="11">soluções entregues</text>
-    <text x="1030" y="91" fill="#14212D" font-size="24" font-weight="800">06</text><text x="1030" y="111" fill="#6B7F8E" font-size="11">projetos destacados</text>
-    <text x="1030" y="159" fill="#14212D" font-size="24" font-weight="800">02</text><text x="1030" y="179" fill="#6B7F8E" font-size="11">produtos públicos</text>
-    <circle cx="1016" cy="87" r="4" fill="#00B0FF"/><circle cx="1016" cy="155" r="4" fill="#00A86B"/>
+  <text x="46" y="263" fill="#006C9D" font-family="Consolas, monospace" font-size="12">web / APIs / cloud / dados / operação</text>
+
+  <text x="490" y="57" fill="#006C9D" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">INDICADORES DO PERFIL</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="490" y="80" width="322" height="84" rx="12" fill="#F8FBFD" stroke="#D7E1EA"/>
+    <rect x="832" y="80" width="322" height="84" rx="12" fill="#F8FBFD" stroke="#D7E1EA"/>
+    <rect x="490" y="180" width="322" height="84" rx="12" fill="#F8FBFD" stroke="#D7E1EA"/>
+    <rect x="832" y="180" width="322" height="84" rx="12" fill="#F8FBFD" stroke="#D7E1EA"/>
+    <text x="516" y="122" fill="#14212D" font-size="28" font-weight="800">14</text>
+    <text x="516" y="145" fill="#486075" font-size="12">repositórios públicos</text>
+    <text x="858" y="122" fill="#14212D" font-size="28" font-weight="800">06</text>
+    <text x="858" y="145" fill="#486075" font-size="12">projetos em destaque</text>
+    <text x="516" y="222" fill="#14212D" font-size="28" font-weight="800">02</text>
+    <text x="516" y="245" fill="#486075" font-size="12">produtos públicos</text>
+    <text x="858" y="222" fill="#14212D" font-size="28" font-weight="800">10+</text>
+    <text x="858" y="245" fill="#486075" font-size="12">entregas corporativas</text>
+    <rect x="789" y="105" width="4" height="34" rx="2" fill="#00B0FF"/>
+    <rect x="1131" y="105" width="4" height="34" rx="2" fill="#0033FF"/>
+    <rect x="789" y="205" width="4" height="34" rx="2" fill="#00A86B"/>
+    <rect x="1131" y="205" width="4" height="34" rx="2" fill="#00B0FF"/>
   </g>
 </svg>

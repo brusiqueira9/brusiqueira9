@@ -1,37 +1,27 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/official-signature.png">
-    <img src="./assets/official-signature-transparent.png" alt="Assinatura oficial Bruno Siqueira" width="200">
-  </picture>
+  <p>
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/official-signature.png">
+      <img src="./assets/official-signature-transparent.png" alt="Assinatura oficial Bruno Siqueira" width="220">
+    </picture>
+  </p>
 
   <h1>Olá, eu sou Bruno Siqueira.</h1>
 
-  <p><strong>Analista de TI · Arquiteto de Software · Desenvolvimento Web · Cloud</strong></p>
+  <p><strong>Analista de TI | Arquiteto de Software | Web, Cloud e Integrações</strong></p>
 
   <p>Transformo processos reais em sistemas claros, integrados e prontos para evoluir.</p>
 
   <p>
-    <a href="https://brunosiqueira.tec.br/"><img src="https://img.shields.io/badge/Site%20oficial-0033FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Site oficial"></a>
-    <a href="https://www.linkedin.com/in/bruno-siquieratec/"><img src="https://img.shields.io/badge/LinkedIn-00B0FF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:contato@brunosiqueira.tec.br"><img src="https://img.shields.io/badge/Disponível%20para%20oportunidades-00A86B?style=flat-square&logo=gmail&logoColor=white" alt="Disponível para oportunidades"></a>
+    <a href="https://brunosiqueira.tec.br/"><img src="https://img.shields.io/badge/Site%20oficial-0033FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Abrir site oficial"></a>
+    <a href="https://www.linkedin.com/in/bruno-siquieratec/"><img src="https://img.shields.io/badge/LinkedIn-00B0FF?style=flat-square&logo=linkedin&logoColor=white" alt="Abrir LinkedIn"></a>
+    <a href="mailto:contato@brunosiqueira.tec.br"><img src="https://img.shields.io/badge/Disponível%20para%20oportunidades-00A86B?style=flat-square&logo=gmail&logoColor=white" alt="Enviar e-mail sobre oportunidades"></a>
   </p>
 </div>
 
-<hr>
+> Estou disponível para novas oportunidades em tecnologia, com foco em arquitetura, desenvolvimento web, cloud, integração de sistemas e resolução de problemas operacionais.
 
-<p align="center">
-  <a href="#sobre">Sobre</a> ·
-  <a href="#trabalho-selecionado">Trabalho selecionado</a> ·
-  <a href="#como-eu-penso">Como eu penso</a> ·
-  <a href="#stack">Stack</a> ·
-  <a href="#contato">Contato</a>
-</p>
-
-> Disponível para novas oportunidades em tecnologia, especialmente em arquitetura, desenvolvimento web, cloud, integração de sistemas e resolução de problemas operacionais.
-
-## Sobre
-
-Minha experiência combina suporte técnico, administração de ambientes, desenvolvimento web e arquitetura de software. Gosto de atuar no ponto em que negócio e tecnologia se encontram: entender o fluxo, organizar os dados, escolher a solução adequada e entregar algo que continue fazendo sentido depois da primeira versão.
+## O que eu construo
 
 <table width="100%">
   <tr>
@@ -41,56 +31,60 @@ Minha experiência combina suporte técnico, administração de ambientes, desen
   </tr>
 </table>
 
-## Sinais do trabalho
+## Visão rápida
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-signals-light.svg">
-  <img src="./assets/profile-signals-dark.svg" alt="Painel com tecnologias centrais e sinais do trabalho: 3+ anos de experiência, 10+ soluções entregues, 6 projetos destacados e 2 produtos públicos" width="100%">
+  <img src="./assets/profile-signals-dark.svg" alt="Painel com processo de entrega, tecnologias centrais, 14 repositórios públicos, 6 projetos em destaque, 2 produtos públicos e mais de 10 entregas corporativas" width="100%">
 </picture>
 
 ## Trabalho selecionado
 
-Projetos que mostram problemas diferentes, mas a mesma preocupação: reduzir atrito e transformar rotina em fluxo confiável.
+Projetos diferentes, com a mesma preocupação: reduzir atrito e transformar rotina em fluxo confiável.
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://athonpace.fit/">AthonPace</a></h3>
-      <table><tr><td bgcolor="#001A33" align="center"><img src="./assets/projects/athonpace-card.png" alt="Logo AthonPace sobre fundo azul-noite" width="230"></td></tr></table>
+      <a href="https://athonpace.fit/"><img src="./assets/projects/athonpace-card.png" alt="Logo AthonPace sobre fundo azul-noite" width="100%"></a>
       <strong>Produto público de corrida</strong><br>
-      App com planos individualizados para acompanhar rotina, esforço e evolução de cada corredor.
-      <br><br><sub>React · TypeScript · Supabase · Strava · Produto em produção</sub>
+      Planos individualizados para acompanhar rotina, esforço e evolução de cada corredor.
+      <br><sub>React, TypeScript, Supabase, Strava</sub>
     </td>
     <td width="50%" valign="top">
       <h3>Kratos</h3>
-      <table><tr><td bgcolor="#F7F9FC" align="center"><img src="./assets/kratos-logo-horizontal.png" alt="Logo Kratos sobre fundo claro" width="230"></td></tr></table>
+      <img src="./assets/kratos-logo-horizontal.png" alt="Logo Kratos sobre fundo claro" width="100%">
       <strong>Solução corporativa para agroquímicos</strong><br>
-      Geração e administração de Fichas de Dados de Segurança, banco Firebird, cálculo ETAM automático, matérias-primas, notificações por e-mail e workflow.
-      <br><br><sub>Projeto não público · Desenvolvido em experiência corporativa</sub>
+      Geração e administração de Fichas de Dados de Segurança, Firebird, cálculo ETAM, matérias-primas, e-mail e workflow.
+      <br><sub>Projeto não público, desenvolvido em experiência corporativa</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/brusiqueira9/expense-guru-supabase">Expense Guru</a></h3>
-      <table><tr><td bgcolor="#001A33" align="center"><img src="./assets/projects/expenseguru.png" alt="Dashboard do Expense Guru" width="220"></td></tr></table>
-      Dashboard financeiro para receitas, despesas, metas e visão do saldo.<br><br><sub>React · TypeScript · Supabase · shadcn/ui</sub>
+      <a href="https://github.com/brusiqueira9/expense-guru-supabase"><img src="./assets/projects/expenseguru.png" alt="Dashboard do Expense Guru" width="100%"></a>
+      Dashboard financeiro para receitas, despesas, metas e visão do saldo.
+      <br><sub>React, TypeScript, Supabase, shadcn/ui</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/brusiqueira9/chamada_motorista">Chama Motorista</a></h3>
-      <table><tr><td bgcolor="#001A33" align="center"><img src="./assets/projects/chamamotorista.png" alt="Interface do Chama Motorista" width="220"></td></tr></table>
-      Sistema de chamada logística por voz com nome, placa e tipo de operação.<br><br><sub>JavaScript · Web Speech API · LocalStorage</sub>
+      <a href="https://github.com/brusiqueira9/chamada_motorista"><img src="./assets/projects/chamamotorista.png" alt="Interface do Chama Motorista" width="100%"></a>
+      Sistema de chamada logística por voz com nome, placa e tipo de operação.
+      <br><sub>JavaScript, Web Speech API, LocalStorage</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/brusiqueira9/ficha-reserva-hotel">Ficha de reserva</a></h3>
-      <table><tr><td bgcolor="#001A33" align="center"><img src="./assets/projects/fichareservahotel.png" alt="Sistema de ficha de reserva de hotel" width="220"></td></tr></table>
-      Fluxo para padronizar reservas e gerar PDFs personalizados para hotéis parceiros.<br><br><sub>HTML · CSS · JavaScript · jsPDF</sub>
+      <a href="https://github.com/brusiqueira9/ficha-reserva-hotel"><img src="./assets/projects/fichareservahotel.png" alt="Sistema de ficha de reserva de hotel" width="100%"></a>
+      Fluxo para padronizar reservas e gerar PDFs personalizados para hotéis parceiros.
+      <br><sub>HTML, CSS, JavaScript, jsPDF</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/brusiqueira9/linux-projeto1-iac">Linux e IaC</a></h3>
-      <table><tr><td bgcolor="#001A33" align="center"><img src="./assets/projects/IAClinux.png" alt="Projetos Linux e infraestrutura como código" width="220"></td></tr></table>
-      Automação Bash de usuários, grupos, diretórios e permissões em ambientes Linux.<br><br><sub>Shell Script · Linux · Administração de sistemas</sub>
+      <a href="https://github.com/brusiqueira9/linux-projeto1-iac"><img src="./assets/projects/IAClinux.png" alt="Projetos Linux e infraestrutura como código" width="100%"></a>
+      Automação Bash de usuários, grupos, diretórios e permissões em ambientes Linux.
+      <br><sub>Shell Script, Linux, administração de sistemas</sub>
     </td>
   </tr>
 </table>
@@ -100,7 +94,7 @@ Projetos que mostram problemas diferentes, mas a mesma preocupação: reduzir at
 
   <br>
 
-  Hub de sistemas integrados · Monitoramento de dispositivos e impressoras · Vínculo de itens com ERP · Consulta de status de pedidos · Processamento de planilhas Excel.
+  Hub de sistemas integrados, monitoramento de dispositivos e impressoras, vínculo de itens com ERP, consulta de status de pedidos e processamento de planilhas Excel.
 </details>
 
 ## Como eu penso
@@ -130,7 +124,7 @@ entender o processo  →  organizar domínio e dados  →  construir com clareza
   <img src="https://img.shields.io/badge/SQL-0033FF?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Firebird-0033FF?style=flat-square&logo=firebird&logoColor=white" alt="Firebird">
   <img src="https://img.shields.io/badge/Supabase-00A86B?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/GitHub_Actions-0033FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-0033FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
 </p>
 
 <details>
@@ -138,7 +132,7 @@ entender o processo  →  organizar domínio e dados  →  construir com clareza
 
   <br>
 
-  APIs REST · JWT · Shell/Bash · Oracle SQL Developer · Microsoft SQL Server · Firebase · Tailwind CSS · shadcn/ui · Web Speech API · ExcelJS · jsPDF
+  APIs REST, JWT, Shell/Bash, Oracle SQL Developer, Microsoft SQL Server, Firebase, Tailwind CSS, shadcn/ui, Web Speech API, ExcelJS e jsPDF.
 </details>
 
 ## Experiência e formação
@@ -150,7 +144,7 @@ entender o processo  →  organizar domínio e dados  →  construir com clareza
 
 ## Contato
 
-Se você está formando um time e precisa conectar produto, operação e engenharia, vamos conversar.
+Se você está formando um time e precisa conectar produto, operação e engenharia, [vamos conversar](mailto:contato@brunosiqueira.tec.br).
 
 <p>
   <a href="mailto:contato@brunosiqueira.tec.br"><img src="https://img.shields.io/badge/E--mail-00A86B?style=flat-square&logo=gmail&logoColor=white" alt="Enviar e-mail"></a>
