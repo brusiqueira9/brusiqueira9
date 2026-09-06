@@ -72,7 +72,7 @@ Alguns trabalhos que mostram como eu penso e construo, do produto público à op
     </td>
   </tr>
   <tr>
-    <td width="100%" valign="top">
+    <td colspan="2" width="100%" valign="top">
       <p><sub>05 · INFRAESTRUTURA</sub></p>
       <a href="https://github.com/brusiqueira9/linux-projeto1-iac"><img align="left" hspace="12" src="./assets/projects/IAClinux.png" alt="Projetos Linux e infraestrutura como código" width="76"></a>
       <strong><a href="https://github.com/brusiqueira9/linux-projeto1-iac">Linux e IaC ↗</a></strong><br>
