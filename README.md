@@ -8,9 +8,9 @@
 
   <h1>Olá, eu sou Bruno Siqueira.</h1>
 
-  <p><strong>Analista de TI | Arquiteto de Software | Web, Cloud e Integrações</strong></p>
+  <p><strong>Analista de TI e Arquiteto de Software | Web, cloud e integrações</strong></p>
 
-  <p>Gosto de pegar processos confusos e transformar em sistemas que as pessoas conseguem usar e manter.</p>
+  <p>Gosto de entender o que está travando uma operação e transformar isso em sistemas claros, úteis e fáceis de manter.</p>
 
   <p>
     <a href="https://brunosiqueira.tec.br/"><img src="https://img.shields.io/badge/Site%20oficial-0033FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Abrir site oficial"></a>
@@ -19,9 +19,9 @@
   </p>
 </div>
 
-> Estou procurando minha próxima oportunidade em tecnologia. Tenho experiência entre suporte, desenvolvimento web, cloud e arquitetura de software.
+> Estou em busca da próxima oportunidade em tecnologia. Minha experiência passa por suporte, desenvolvimento web, cloud e arquitetura de software.
 
-## O que eu construo
+## O que eu gosto de construir
 
 <img src="./assets/capabilities-dark.svg?v=2#gh-dark-mode-only" alt="Três áreas de atuação em tema escuro: arquitetura, produtos web e operação" width="100%">
 <img src="./assets/capabilities-light.svg?v=2#gh-light-mode-only" alt="Três áreas de atuação em tema claro: arquitetura, produtos web e operação" width="100%">
@@ -33,7 +33,7 @@
 
 ## Trabalho selecionado
 
-Alguns trabalhos que mostram como eu penso e construo, do produto público à operação corporativa.
+Aqui estão alguns projetos que mostram como gosto de trabalhar, do produto público à operação corporativa.
 
 <table width="100%">
   <tr>
@@ -42,7 +42,7 @@ Alguns trabalhos que mostram como eu penso e construo, do produto público à op
       <a href="https://athonpace.fit/"><img align="left" hspace="12" src="./assets/projects/athonpace-card.png" alt="Logo AthonPace sobre fundo azul-noite" width="76"></a>
       <strong><a href="https://athonpace.fit/">AthonPace ↗</a></strong><br>
       <sub>athonpace.fit</sub><br>
-      Planos de corrida para acompanhar rotina e evolução.<br clear="left">
+      Um app para planejar treinos e acompanhar a evolução na corrida.<br clear="left">
       <p><sub>React · TypeScript · Supabase</sub></p>
     </td>
     <td width="50%" valign="top">
@@ -51,7 +51,7 @@ Alguns trabalhos que mostram como eu penso e construo, do produto público à op
       <img align="left" hspace="12" src="./assets/kratos-logo-card.png?v=2#gh-light-mode-only" alt="Logo Kratos em versão clara" width="76">
       <strong>Kratos</strong><br>
       <sub>produto interno</sub><br>
-      FDS para agroquímicos, ETAM, Firebird e workflow.<br clear="left">
+      Uma solução interna para organizar fichas de segurança, ETAM, Firebird e etapas da operação.<br clear="left">
       <p><sub>Dados · automação · notificações</sub></p>
     </td>
   </tr>
@@ -60,14 +60,14 @@ Alguns trabalhos que mostram como eu penso e construo, do produto público à op
       <p><sub>03 · PRODUTO WEB</sub></p>
       <a href="https://github.com/brusiqueira9/expense-guru-supabase"><img align="left" hspace="12" src="./assets/projects/expenseguru.png" alt="Dashboard do Expense Guru" width="76"></a>
       <strong><a href="https://github.com/brusiqueira9/expense-guru-supabase">Expense Guru ↗</a></strong><br>
-      Finanças pessoais com visão rápida do saldo.<br clear="left">
+      Um app para acompanhar receitas, despesas e metas sem complicar.<br clear="left">
       <p><sub>React · TypeScript · Supabase</sub></p>
     </td>
     <td width="50%" valign="top">
       <p><sub>04 · AUTOMAÇÃO</sub></p>
       <a href="https://github.com/brusiqueira9/chamada_motorista"><img align="left" hspace="12" src="./assets/projects/chamamotorista.png" alt="Interface do Chama Motorista" width="76"></a>
       <strong><a href="https://github.com/brusiqueira9/chamada_motorista">Chama Motorista ↗</a></strong><br>
-      Chamada logística por voz, nome, placa e operação.<br clear="left">
+      Uma ferramenta para chamar motoristas por voz, usando nome, placa e tipo de operação.<br clear="left">
       <p><sub>JavaScript · Web Speech API</sub></p>
     </td>
   </tr>
@@ -76,7 +76,7 @@ Alguns trabalhos que mostram como eu penso e construo, do produto público à op
       <p><sub>05 · INFRAESTRUTURA</sub></p>
       <a href="https://github.com/brusiqueira9/linux-projeto1-iac"><img align="left" hspace="12" src="./assets/projects/IAClinux.png" alt="Projetos Linux e infraestrutura como código" width="76"></a>
       <strong><a href="https://github.com/brusiqueira9/linux-projeto1-iac">Linux e IaC ↗</a></strong><br>
-      Automação Bash de ambientes, usuários e permissões.<br clear="left">
+      Scripts Bash para automatizar usuários, diretórios e permissões em ambientes Linux.<br clear="left">
       <p><sub>Shell Script · Linux · IaC</sub></p>
     </td>
   </tr>
@@ -87,27 +87,27 @@ Alguns trabalhos que mostram como eu penso e construo, do produto público à op
 
   <br>
 
-  Também já trabalhei com integração de sistemas, monitoramento de dispositivos, vínculo com ERP, consulta de pedidos e processamento de planilhas Excel.
+  Também já construí soluções para integrar sistemas, monitorar dispositivos, conectar ERPs, consultar pedidos e processar planilhas Excel.
 </details>
 
-## Como eu penso
+## Como eu trabalho
 
 ```text
   entender o processo  →  organizar o essencial  →  construir  →  melhorar com o uso
 ```
 
-- Antes de escolher a tecnologia, tento entender o que precisa funcionar de verdade.
-- Prefiro uma solução simples, bem organizada e pronta para crescer.
-- Entregar também é documentar, integrar e deixar a operação tranquila para quem vai usar.
+- Antes de pensar na tecnologia, tento entender o que precisa funcionar de verdade.
+- Gosto de soluções simples, bem organizadas e prontas para crescer.
+- Para mim, entregar também é documentar, integrar e deixar a operação tranquila para quem vai usar.
 
-## Stack
+## Tecnologias que uso
 
 <p>
   <img src="./assets/skill-stack-dark.svg?v=2#gh-dark-mode-only" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Docker, Linux, Git, GitHub Actions e Supabase em tema escuro">
   <img src="./assets/skill-stack-light.svg?v=2#gh-light-mode-only" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Docker, Linux, Git, GitHub Actions e Supabase em tema claro">
 </p>
 <p>
-  <sub>Também trabalho com APIs REST, JWT, Shell/Bash, SQL, Firebird, Firebase, Tailwind CSS, shadcn/ui, Web Speech API, ExcelJS e jsPDF.</sub>
+  <sub>No dia a dia, também trabalho com APIs REST, JWT, Shell/Bash, SQL, Firebird, Firebase, Tailwind CSS, shadcn/ui, Web Speech API, ExcelJS e jsPDF.</sub>
 </p>
 
 <details>
@@ -115,19 +115,19 @@ Alguns trabalhos que mostram como eu penso e construo, do produto público à op
 
   <br>
 
-  Oracle SQL Developer e Microsoft SQL Server fazem parte da experiência corporativa; as tecnologias de uso recorrente ficam visíveis na linha acima.
+  Na experiência corporativa, também trabalhei com Oracle SQL Developer e Microsoft SQL Server. As tecnologias que uso com mais frequência ficam visíveis na linha acima.
 </details>
 
 ## Experiência e formação
 
-- Última experiência: Analista de Suporte de TI na AgroCP.
+- Minha experiência mais recente foi como Analista de Suporte de TI na AgroCP.
 - MBA em Arquitetura de Microsserviços.
 - Pós-graduação em Arquitetura de Software.
 - Tecnologia em Computação em Nuvem.
 
 ## Contato
 
-Se o seu time precisa de alguém que transite entre suporte, produto e engenharia, [vamos conversar](mailto:contato@brunosiqueira.tec.br).
+Se você procura alguém que transite entre suporte, produto e engenharia, [vamos conversar](mailto:contato@brunosiqueira.tec.br).
 
 <p>
   <a href="mailto:contato@brunosiqueira.tec.br"><img src="https://img.shields.io/badge/E--mail-00A86B?style=flat-square&logo=gmail&logoColor=white" alt="Enviar e-mail"></a>
