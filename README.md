@@ -25,7 +25,12 @@
   <img src="./assets/skill-stack-light.svg?v=2#gh-light-mode-only" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Docker, Linux, Git, GitHub Actions e Supabase em tema claro">
 </p>
 <p>
-  <sub>No dia a dia, também trabalho com APIs REST, JWT, Shell/Bash, SQL, Firebird, Firebase, Tailwind CSS, shadcn/ui, Web Speech API, ExcelJS e jsPDF.</sub>
+  <a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white" alt="Oracle"></a>
+  <a href="https://www.firebirdsql.org/"><img src="https://www.firebirdsql.org/file/about/firebird-logo-64.png" width="28" height="28" align="absmiddle" alt="Logotipo oficial do Firebird"></a>
+  <strong>Firebird</strong>
+</p>
+<p>
+  <sub>No dia a dia, também trabalho com APIs REST, JWT, Shell/Bash, SQL, Oracle, Firebird, Firebase, Tailwind CSS, shadcn/ui, Web Speech API, ExcelJS e jsPDF.</sub>
 </p>
 
 ## 📊 GitHub Stats
