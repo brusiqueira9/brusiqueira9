@@ -21,23 +21,11 @@
 ## 🧰 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=black" alt="Supabase">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Web%20Speech%20API-30363D?style=for-the-badge" alt="Web Speech API">
-  <img src="https://img.shields.io/badge/SheetJS%20XLSX-217346?style=for-the-badge" alt="SheetJS XLSX">
-  <img src="https://img.shields.io/badge/jsPDF-B32D2E?style=for-the-badge" alt="jsPDF">
-  <img src="https://img.shields.io/badge/pdfMake-455A64?style=for-the-badge" alt="pdfMake">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
+  <img src="./assets/skill-stack-dark.svg?v=2#gh-dark-mode-only" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Docker, Linux, Git, GitHub Actions e Supabase em tema escuro">
+  <img src="./assets/skill-stack-light.svg?v=2#gh-light-mode-only" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Docker, Linux, Git, GitHub Actions e Supabase em tema claro">
+</p>
+<p>
+  <sub>No dia a dia, também trabalho com APIs REST, JWT, Shell/Bash, SQL, Firebird, Firebase, Tailwind CSS, shadcn/ui, Web Speech API, ExcelJS e jsPDF.</sub>
 </p>
 
 ## 📊 GitHub Stats
@@ -53,17 +41,18 @@
 
 ## 🚀 Trabalho selecionado
 
-- **[Expense Guru](https://github.com/brusiqueira9/expense-guru-supabase)** — aplicação de finanças pessoais com regras de domínio, autenticação e persistência no Supabase. `React` `TypeScript` `PostgreSQL`
-- **[Chama Motorista](https://github.com/brusiqueira9/chamada_motorista)** — ferramenta para importar planilhas, chamar motoristas por voz e exportar o histórico em PDF. `JavaScript` `Web Speech API` `XLSX`
-- **[Ficha Reserva Hotel](https://github.com/brusiqueira9/ficha-reserva-hotel)** — formulário para organizar reservas e gerar fichas padronizadas em PDF. `HTML` `CSS` `JavaScript` `pdfMake`
-- **[AthonPace](https://athonpace.fit/)** — produto público para planejamento de treinos e acompanhamento de evolução na corrida. `React` `TypeScript` `Supabase`
+- **[AthonPace](https://athonpace.fit/)** — produto público para planejamento adaptativo de treinos e acompanhamento de evolução na corrida. `React` `TypeScript` `Supabase` `Strava`
+- **Kratos** — solução corporativa para gerar e administrar fichas de segurança de produtos agroquímicos, com cálculo de ETAM, matérias-primas e etapas automatizadas. `Firebird` `Workflow` `Dados`
+- **[Expense Guru](https://github.com/brusiqueira9/expense-guru-supabase)** — aplicação de finanças pessoais com regras de domínio, autenticação e persistência no Supabase. `React` `TypeScript` `Supabase`
+- **Vínculo Item Tablet** — aplicação que liga produtos dos pedidos do SIG aos cadastros corretos no ERP Siagri por meio de uma API conectada ao Oracle. `React` `TypeScript` `OracleDB` `Docker`
+- **API de Pedidos** — consulta o andamento dos pedidos feitos pelo tablet por meio de uma API REST. `Node.js` `Express` `JavaScript` `REST API`
 
 <details>
   <summary><strong>Experiência corporativa</strong></summary>
 
   <br>
 
-  Também construí soluções para organizar fichas de segurança, integrar sistemas, monitorar dispositivos, consultar pedidos e automatizar rotinas em ambientes Linux.
+  Também construí o Orion Monitor para acompanhar dispositivos e impressoras, um hub de sistemas integrados e ferramentas para processar planilhas Excel e automatizar rotinas em ambientes Linux.
 </details>
 
 ## 📬 Vamos conversar
