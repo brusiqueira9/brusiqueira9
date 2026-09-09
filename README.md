@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🔭 Desenvolvo ferramentas web para finanças, automação de rotinas e documentos operacionais.
+- 🔭 Desenvolvo apliações web, automação de rotinas e documentos operacionais.
 - 🧩 Gosto de entender o processo antes de escolher a tecnologia e transformar a complexidade em um fluxo simples.
 - 🏗️ Minha base combina suporte de TI, desenvolvimento web, cloud e arquitetura de software.
 - 🎓 MBA em Arquitetura de Microsserviços, pós-graduação em Arquitetura de Software e formação em Computação em Nuvem.
